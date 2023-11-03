@@ -1,4 +1,5 @@
 ---
+title: "Question 6"
 question: 6
 completed: false
 ---

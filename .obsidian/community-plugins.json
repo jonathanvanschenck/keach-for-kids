@@ -1,8 +1,5 @@
 [
   "obsidian-vimrc-support",
-  "dataview",
-  "table-editor-obsidian",
   "obsidian-relative-line-numbers",
-  "obsidian-minimal-settings",
-  "cm-editor-syntax-highlight-obsidian"
+  "obsidian-minimal-settings"
 ]

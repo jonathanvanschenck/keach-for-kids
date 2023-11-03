@@ -1,0 +1,14 @@
+{
+  "name": "keach-for-kids",
+  "version": "1.0.0",
+  "description": "An adaptation of Keach's Catechism in modern English for young children.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^4.0.2"
+  }
+}

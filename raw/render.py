@@ -18,6 +18,7 @@ for q in Q:
 
     out = ""
     out = out + "---\n".format(**q)
+    out = out + "title: \"Question {number}\"\n".format(**q)
     out = out + "question: {number}\n".format(**q)
     out = out + "completed: false\n".format(**q)
     out = out + "---\n".format(**q)
