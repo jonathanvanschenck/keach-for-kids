@@ -21,8 +21,8 @@
 title: Keach-for-Kids
 description: >- # this means to ignore newlines until "baseurl:"
   An adaptation of Keach's Catechism in modern English for young children.
-baseurl: "/keach-for-kids" # the subpath of your site, e.g. /blog
-url: "https://jonathanvanschenck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://keach.jdbvs.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jonathanvanschenck
 
 # Build settings
@@ -45,12 +45,3 @@ exclude:
   - package.json
   - package-lock.json
   - README.md
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
