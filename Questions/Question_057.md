@@ -2,8 +2,10 @@
 title: "Question 57"
 question: 57
 completed: false
+layout: default
+tags:
+  - question/57
 ---
-#question/57
 # Question 57
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Colossians 2:18 (ESV)
 > <sup>18</sup>Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the second commandment?
 

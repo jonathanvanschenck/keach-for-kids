@@ -2,8 +2,10 @@
 title: "Question 87"
 question: 87
 completed: false
+layout: default
+tags:
+  - question/87
 ---
-#question/87
 # Question 87
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Colossians 3:5 (ESV)
 > <sup>5</sup>Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the tenth commandment?
 

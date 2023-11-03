@@ -2,8 +2,10 @@
 title: "Question 25"
 question: 25
 completed: false
+layout: default
+tags:
+  - question/25
 ---
-#question/25
 # Question 25
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Colossians 2:9 (ESV)
 > <sup>9</sup>For in him the whole fullness of deity dwells bodily,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Who is the Redeemer of God's elect?
 

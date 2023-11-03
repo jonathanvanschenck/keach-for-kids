@@ -2,8 +2,10 @@
 title: "Question 62"
 question: 62
 completed: false
+layout: default
+tags:
+  - question/62
 ---
-#question/62
 # Question 62
 
 ## Question
@@ -20,7 +22,7 @@ completed: false
 ### Malachi 2:2 (ESV)
 > <sup>2</sup>If you will not listen, if you will not take it to heart to give honor to my name, says the LORD of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the reason annexed to the third commandment?
 

@@ -2,8 +2,10 @@
 title: "Question 32"
 question: 32
 completed: false
+layout: default
+tags:
+  - question/32
 ---
-#question/32
 # Question 32
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Acts 17:31 (ESV)
 > <sup>31</sup>because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Wherein consists Christ's exaltation?
 

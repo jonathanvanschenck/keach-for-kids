@@ -2,8 +2,10 @@
 title: "Question 6"
 question: 6
 completed: false
+layout: default
+tags:
+  - question/6
 ---
-#question/6
 # Question 6
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Acts 17:11 (ESV)
 > <sup>11</sup>Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 May all men make use of the Scriptures?
 

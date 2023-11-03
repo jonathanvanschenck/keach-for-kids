@@ -2,8 +2,10 @@
 title: "Question 74"
 question: 74
 completed: false
+layout: default
+tags:
+  - question/74
 ---
-#question/74
 # Question 74
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 ### Acts 16:28 (ESV)
 > <sup>28</sup>But Paul cried with a loud voice, “Do not harm yourself, for we are all here.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the sixth commandment?
 

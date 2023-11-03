@@ -2,8 +2,10 @@
 title: "Question 16"
 question: 16
 completed: false
+layout: default
+tags:
+  - question/16
 ---
-#question/16
 # Question 16
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### Romans 5:12 (ESV)
 > <sup>12</sup>Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What special act of providence did God exercise towards man, in the estate wherein he was created?
 

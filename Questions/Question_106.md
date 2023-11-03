@@ -2,8 +2,10 @@
 title: "Question 106"
 question: 106
 completed: false
+layout: default
+tags:
+  - question/106
 ---
-#question/106
 # Question 106
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### John 11:52 (ESV)
 > <sup>52</sup>and not for the nation only, but also to gather into one the children of God who are scattered abroad.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the invisible church?
 

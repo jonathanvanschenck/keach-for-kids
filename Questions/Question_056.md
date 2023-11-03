@@ -2,8 +2,10 @@
 title: "Question 56"
 question: 56
 completed: false
+layout: default
+tags:
+  - question/56
 ---
-#question/56
 # Question 56
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Deuteronomy 12:32 (ESV)
 > <sup>32</sup> “Everything that I command you, you shall be careful to do. You shall not add to it or take from it.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the second commandment?
 

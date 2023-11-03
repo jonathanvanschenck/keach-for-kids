@@ -2,8 +2,10 @@
 title: "Question 77"
 question: 77
 completed: false
+layout: default
+tags:
+  - question/77
 ---
-#question/77
 # Question 77
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 ### 1 Peter 3:2 (ESV)
 > <sup>2</sup>when they see your respectful and pure conduct.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the seventh commandment?
 

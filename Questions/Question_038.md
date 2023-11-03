@@ -2,8 +2,10 @@
 title: "Question 38"
 question: 38
 completed: false
+layout: default
+tags:
+  - question/38
 ---
-#question/38
 # Question 38
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 > <sup>16</sup>The Spirit himself bears witness with our spirit that we are children of God,
 > <sup>17</sup>and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is adoption?
 

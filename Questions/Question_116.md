@@ -2,8 +2,10 @@
 title: "Question 116"
 question: 116
 completed: false
+layout: default
+tags:
+  - question/116
 ---
-#question/116
 # Question 116
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Matthew 18:35 (ESV)
 > <sup>35</sup>So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do we pray for in the fifth petition?
 

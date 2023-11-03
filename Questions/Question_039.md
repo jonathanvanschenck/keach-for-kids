@@ -2,8 +2,10 @@
 title: "Question 39"
 question: 39
 completed: false
+layout: default
+tags:
+  - question/39
 ---
-#question/39
 # Question 39
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### Romans 6:11 (ESV)
 > <sup>11</sup>So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is sanctification?
 

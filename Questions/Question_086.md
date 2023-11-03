@@ -2,8 +2,10 @@
 title: "Question 86"
 question: 86
 completed: false
+layout: default
+tags:
+  - question/86
 ---
-#question/86
 # Question 86
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Leviticus 19:18 (ESV)
 > <sup>18</sup>You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the LORD.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the tenth commandment?
 

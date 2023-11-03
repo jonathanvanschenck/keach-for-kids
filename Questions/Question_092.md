@@ -2,8 +2,10 @@
 title: "Question 92"
 question: 92
 completed: false
+layout: default
+tags:
+  - question/92
 ---
-#question/92
 # Question 92
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### Acts 17:30 (ESV)
 > <sup>30</sup>The times of ignorance God overlooked, but now he commands all people everywhere to repent,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What does God require of us, that we may escape His wrath and curse, due to us for sin?
 

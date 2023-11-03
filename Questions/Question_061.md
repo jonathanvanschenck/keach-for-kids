@@ -2,8 +2,10 @@
 title: "Question 61"
 question: 61
 completed: false
+layout: default
+tags:
+  - question/61
 ---
-#question/61
 # Question 61
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 ### Isaiah 52:5 (ESV)
 > <sup>5</sup>Now therefore what have I here,” declares the LORD, “seeing that my people are taken away for nothing? Their rulers wail,” declares the LORD, “and continually all the day my name is despised.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the third commandment?
 

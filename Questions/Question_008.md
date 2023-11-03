@@ -2,8 +2,10 @@
 title: "Question 8"
 question: 8
 completed: false
+layout: default
+tags:
+  - question/8
 ---
-#question/8
 # Question 8
 
 ## Question
@@ -38,7 +40,7 @@ completed: false
 ### 1 Timothy 1:17 (ESV)
 > <sup>17</sup>To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is God?
 

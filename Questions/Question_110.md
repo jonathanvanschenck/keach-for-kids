@@ -2,8 +2,10 @@
 title: "Question 110"
 question: 110
 completed: false
+layout: default
+tags:
+  - question/110
 ---
-#question/110
 # Question 110
 
 ## Question
@@ -24,7 +26,7 @@ completed: false
 > <sup>16</sup>All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,
 > <sup>17</sup>that the man of God may be complete, equipped for every good work.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What rule has God given for our direction in prayer?
 

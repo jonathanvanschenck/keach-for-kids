@@ -2,8 +2,10 @@
 title: "Question 71"
 question: 71
 completed: false
+layout: default
+tags:
+  - question/71
 ---
-#question/71
 # Question 71
 
 ## Question
@@ -20,7 +22,7 @@ completed: false
 > <sup>7</sup>Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
 > <sup>8</sup>Owe no one anything, except to love each other, for the one who loves another has fulfilled the law.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the fifth commandment?
 

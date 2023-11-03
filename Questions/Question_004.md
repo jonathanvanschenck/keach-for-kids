@@ -2,8 +2,10 @@
 title: "Question 4"
 question: 4
 completed: false
+layout: default
+tags:
+  - question/4
 ---
-#question/4
 # Question 4
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### Isaiah 8:20 (ESV)
 > <sup>20</sup>To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the Word of God?
 

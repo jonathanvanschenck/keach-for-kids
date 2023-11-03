@@ -2,8 +2,10 @@
 title: "Question 112"
 question: 112
 completed: false
+layout: default
+tags:
+  - question/112
 ---
-#question/112
 # Question 112
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Revelation 4:11 (ESV)
 > <sup>11</sup>“Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do we pray for in the first petition?
 

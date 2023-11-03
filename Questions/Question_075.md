@@ -2,8 +2,10 @@
 title: "Question 75"
 question: 75
 completed: false
+layout: default
+tags:
+  - question/75
 ---
-#question/75
 # Question 75
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 > <sup>25</sup>Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison.
 > <sup>26</sup>Truly, I say to you, you will never get out until you have paid the last penny.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the sixth commandment?
 

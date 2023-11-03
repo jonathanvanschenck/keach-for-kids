@@ -2,8 +2,10 @@
 title: "Question 114"
 question: 114
 completed: false
+layout: default
+tags:
+  - question/114
 ---
-#question/114
 # Question 114
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Psalm 119:26 (ESV)
 > <sup>26</sup>When I told of my ways, you answered me; teach me your statutes!
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do we pray for in the third petition?
 

@@ -2,8 +2,10 @@
 title: "Question 69"
 question: 69
 completed: false
+layout: default
+tags:
+  - question/69
 ---
-#question/69
 # Question 69
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:12 (ESV)
 > <sup>12</sup>“Honor your father and your mother, that your days may be long in the land that the LORD your God is giving you.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the fifth commandment?
 

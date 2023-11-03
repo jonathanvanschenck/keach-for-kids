@@ -2,8 +2,10 @@
 title: "Question 96"
 question: 96
 completed: false
+layout: default
+tags:
+  - question/96
 ---
-#question/96
 # Question 96
 
 ## Question
@@ -36,7 +38,7 @@ completed: false
 ### Psalm 19:7 (ESV)
 > <sup>7</sup>The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple;
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How is the Word made effectual to salvation?
 

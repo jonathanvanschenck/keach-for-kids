@@ -2,8 +2,10 @@
 title: "Question 103"
 question: 103
 completed: false
+layout: default
+tags:
+  - question/103
 ---
-#question/103
 # Question 103
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 > <sup>38</sup>And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him.
 > <sup>39</sup>And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way rejoicing.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How is Baptism rightly administered?
 

@@ -2,8 +2,10 @@
 title: "Question 26"
 question: 26
 completed: false
+layout: default
+tags:
+  - question/26
 ---
-#question/26
 # Question 26
 
 ## Question
@@ -38,7 +40,7 @@ completed: false
 ### Hebrews 7:26 (ESV)
 > <sup>26</sup>For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How did Christ, being the Son of God, become man?
 

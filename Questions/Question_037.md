@@ -2,8 +2,10 @@
 title: "Question 37"
 question: 37
 completed: false
+layout: default
+tags:
+  - question/37
 ---
-#question/37
 # Question 37
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Galatians 2:16 (ESV)
 > <sup>16</sup>yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is justification?
 

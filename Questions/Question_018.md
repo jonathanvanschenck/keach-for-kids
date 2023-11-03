@@ -2,8 +2,10 @@
 title: "Question 18"
 question: 18
 completed: false
+layout: default
+tags:
+  - question/18
 ---
-#question/18
 # Question 18
 
 ## Question
@@ -19,7 +21,7 @@ completed: false
 ### Romans 5:13 (ESV)
 > <sup>13</sup>for sin indeed was in the world before the law was given, but sin is not counted where there is no law.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is sin?
 

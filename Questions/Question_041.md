@@ -2,8 +2,10 @@
 title: "Question 41"
 question: 41
 completed: false
+layout: default
+tags:
+  - question/41
 ---
-#question/41
 # Question 41
 
 ## Question
@@ -34,7 +36,7 @@ completed: false
 ### Job 19:26 (ESV)
 > <sup>26</sup>And after my skin has been thus destroyed, yet in my flesh I shall see God,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What benefits do believers receive from Christ at death?
 

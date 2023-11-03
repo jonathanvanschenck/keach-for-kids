@@ -2,8 +2,10 @@
 title: "Question 45"
 question: 45
 completed: false
+layout: default
+tags:
+  - question/45
 ---
-#question/45
 # Question 45
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 > <sup>27</sup>And he answered, “You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.”
 > <sup>28</sup>And he said to him, “You have answered correctly; do this, and you will live.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the duty which God requires of man?
 

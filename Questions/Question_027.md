@@ -2,8 +2,10 @@
 title: "Question 27"
 question: 27
 completed: false
+layout: default
+tags:
+  - question/27
 ---
-#question/27
 # Question 27
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Psalm 2:6 (ESV)
 > <sup>6</sup>“As for me, I have set my King on Zion, my holy hill.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What offices does Christ execute as our Redeemer?
 

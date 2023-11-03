@@ -2,8 +2,10 @@
 title: "Question 79"
 question: 79
 completed: false
+layout: default
+tags:
+  - question/79
 ---
-#question/79
 # Question 79
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:15 (ESV)
 > <sup>15</sup>“You shall not steal.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the eighth commandment?
 

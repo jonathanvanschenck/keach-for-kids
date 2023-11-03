@@ -2,8 +2,10 @@
 title: "Question 65"
 question: 65
 completed: false
+layout: default
+tags:
+  - question/65
 ---
-#question/65
 # Question 65
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 ### Revelation 1:10 (ESV)
 > <sup>10</sup>I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which day of the seven has God appointed to be the weekly Sabbath?
 

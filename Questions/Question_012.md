@@ -2,8 +2,10 @@
 title: "Question 12"
 question: 12
 completed: false
+layout: default
+tags:
+  - question/12
 ---
-#question/12
 # Question 12
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Acts 14:17 (ESV)
 > <sup>17</sup>Yet he did not leave himself without witness, for he did good by giving you rains from heaven and fruitful seasons, satisfying your hearts with food and gladness.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How does God execute His decrees?
 

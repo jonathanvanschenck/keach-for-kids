@@ -2,8 +2,10 @@
 title: "Question 66"
 question: 66
 completed: false
+layout: default
+tags:
+  - question/66
 ---
-#question/66
 # Question 66
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 > <sup>11</sup>He said to them, “Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?
 > <sup>12</sup>Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How is the Sabbath to be sanctified?
 

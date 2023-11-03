@@ -2,8 +2,10 @@
 title: "Question 43"
 question: 43
 completed: false
+layout: default
+tags:
+  - question/43
 ---
-#question/43
 # Question 43
 
 ## Question
@@ -21,7 +23,7 @@ completed: false
 ### Psalm 49:14 (ESV)
 > <sup>14</sup>Like sheep they are appointed for Sheol; death shall be their shepherd, and the upright shall rule over them in the morning. Their form shall be consumed in Sheol, with no place to dwell.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What shall be done to the wicked at death?
 

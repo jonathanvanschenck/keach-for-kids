@@ -2,8 +2,10 @@
 title: "Question 93"
 question: 93
 completed: false
+layout: default
+tags:
+  - question/93
 ---
-#question/93
 # Question 93
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 > <sup>15</sup>We ourselves are Jews by birth and not Gentile sinners;
 > <sup>16</sup>yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is faith in Jesus Christ?
 

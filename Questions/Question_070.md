@@ -2,8 +2,10 @@
 title: "Question 70"
 question: 70
 completed: false
+layout: default
+tags:
+  - question/70
 ---
-#question/70
 # Question 70
 
 ## Question
@@ -44,7 +46,7 @@ completed: false
 ### Romans 12:10 (ESV)
 > <sup>10</sup>Love one another with brotherly affection. Outdo one another in showing honor.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the fifth commandment?
 

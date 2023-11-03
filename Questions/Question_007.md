@@ -2,8 +2,10 @@
 title: "Question 7"
 question: 7
 completed: false
+layout: default
+tags:
+  - question/7
 ---
-#question/7
 # Question 7
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 ### Ecclesiastes 12:13 (ESV)
 > <sup>13</sup>The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do the Scriptures principally teach?
 

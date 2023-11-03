@@ -2,8 +2,10 @@
 title: "Question 98"
 question: 98
 completed: false
+layout: default
+tags:
+  - question/98
 ---
-#question/98
 # Question 98
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### 1 Corinthians 12:13 (ESV)
 > <sup>13</sup>For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How do Baptism and the Lord's Supper become effectual means of salvation?
 

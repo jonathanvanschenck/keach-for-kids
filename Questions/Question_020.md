@@ -2,8 +2,10 @@
 title: "Question 20"
 question: 20
 completed: false
+layout: default
+tags:
+  - question/20
 ---
-#question/20
 # Question 20
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### Romans 5:19 (ESV)
 > <sup>19</sup>For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Did all mankind fall in Adam's first transgression?
 

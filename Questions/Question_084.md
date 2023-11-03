@@ -2,8 +2,10 @@
 title: "Question 84"
 question: 84
 completed: false
+layout: default
+tags:
+  - question/84
 ---
-#question/84
 # Question 84
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 > <sup>20</sup>We take this course so that no one should blame us about this generous gift that is being administered by us,
 > <sup>21</sup>for we aim at what is honorable not only in the Lord's sight but also in the sight of man.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the ninth commandment?
 

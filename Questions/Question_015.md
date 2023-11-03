@@ -2,8 +2,10 @@
 title: "Question 15"
 question: 15
 completed: false
+layout: default
+tags:
+  - question/15
 ---
-#question/15
 # Question 15
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 > <sup>29</sup>Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father.
 > <sup>30</sup>But even the hairs of your head are all numbered.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are God's works of providence?
 

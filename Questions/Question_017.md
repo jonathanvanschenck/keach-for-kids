@@ -2,8 +2,10 @@
 title: "Question 17"
 question: 17
 completed: false
+layout: default
+tags:
+  - question/17
 ---
-#question/17
 # Question 17
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Romans 5:12 (ESV)
 > <sup>12</sup>Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Did our first parents continue in the estate wherein they were created?
 

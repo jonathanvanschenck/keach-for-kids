@@ -2,8 +2,10 @@
 title: "Question 94"
 question: 94
 completed: false
+layout: default
+tags:
+  - question/94
 ---
-#question/94
 # Question 94
 
 ## Question
@@ -30,7 +32,7 @@ completed: false
 ### Romans 6:18 (ESV)
 > <sup>18</sup>and, having been set free from sin, have become slaves of righteousness.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is repentance unto life?
 

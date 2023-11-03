@@ -2,8 +2,10 @@
 title: "Question 80"
 question: 80
 completed: false
+layout: default
+tags:
+  - question/80
 ---
-#question/80
 # Question 80
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Deuteronomy 22:14 (ESV)
 > <sup>14</sup>and accuses her of misconduct and brings a bad name upon her, saying, ‘I took this woman, and when I came near her, I did not find in her evidence of virginity,’
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the eighth commandment?
 

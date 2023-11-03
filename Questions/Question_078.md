@@ -2,8 +2,10 @@
 title: "Question 78"
 question: 78
 completed: false
+layout: default
+tags:
+  - question/78
 ---
-#question/78
 # Question 78
 
 ## Question
@@ -33,7 +35,7 @@ completed: false
 ### Colossians 4:6 (ESV)
 > <sup>6</sup>Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the seventh commandment?
 

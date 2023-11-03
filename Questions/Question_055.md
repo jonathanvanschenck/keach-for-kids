@@ -2,8 +2,10 @@
 title: "Question 55"
 question: 55
 completed: false
+layout: default
+tags:
+  - question/55
 ---
-#question/55
 # Question 55
 
 ## Question
@@ -18,7 +20,7 @@ completed: false
 > <sup>5</sup>You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and the fourth generation of those who hate me,
 > <sup>6</sup>but showing steadfast love to thousands of those who love me and keep my commandments.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the second commandment?
 

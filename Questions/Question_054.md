@@ -2,8 +2,10 @@
 title: "Question 54"
 question: 54
 completed: false
+layout: default
+tags:
+  - question/54
 ---
-#question/54
 # Question 54
 
 ## Question
@@ -24,7 +26,7 @@ completed: false
 ### Psalm 90:8 (ESV)
 > <sup>8</sup>You have set our iniquities before you, our secret sins in the light of your presence.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are we especially taught by these words, "before me," in the first commandment?
 
