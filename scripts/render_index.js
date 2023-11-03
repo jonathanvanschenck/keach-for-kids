@@ -11,7 +11,6 @@ const OPATH = join(__dirname, "../index.md");
         return files.map(f => ({
             name: f,
             path: join(QPATH,f),
-            vpath: "./" + join("Questions",f.slice(0,-3)),
         })).sort((a,b) => a.name >= b.name ? 1 : b.name >= a.name ? -1 : 0);
     }).then(files => {
         return Promise.all(files.map(async (f) => {
@@ -19,6 +18,7 @@ const OPATH = join(__dirname, "../index.md");
             f.title = md.title;
             f.question = md.question;
             f.completed = md.completed;
+            f.vpath = md.permalink
             return f;
         }));
     });
