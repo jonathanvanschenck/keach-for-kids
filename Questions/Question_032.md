@@ -2,7 +2,10 @@
 title: "Question 32"
 question: 32
 completed: false
-layout: default
+layout: question
+permalink: "/question/32"
+next: "/question/33"
+previous: "/question/31"
 tags:
   - question/32
 ---

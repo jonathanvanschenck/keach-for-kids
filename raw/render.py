@@ -21,7 +21,12 @@ for q in Q:
     out = out + "title: \"Question {number}\"\n".format(**q)
     out = out + "question: {number}\n".format(**q)
     out = out + "completed: false\n".format(**q)
-    out = out + "layout: default\n".format(**q)
+    out = out + "layout: question\n".format(**q)
+    out = out + "permalink: \"/question/{}\"\n".format(q["number"])
+    if q["number"] < len(Q):
+        out = out + "next: \"/question/{}\"\n".format(q["number"]+1)
+    if q["number"] > 1:
+        out = out + "previous: \"/question/{}\"\n".format(q["number"]-1)
     out = out + "tags:\n".format(**q)
     out = out + "  - question/{number}\n".format(**q)
     out = out + "---\n".format(**q)

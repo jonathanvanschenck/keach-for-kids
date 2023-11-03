@@ -2,7 +2,10 @@
 title: "Question 18"
 question: 18
 completed: false
-layout: default
+layout: question
+permalink: "/question/18"
+next: "/question/19"
+previous: "/question/17"
 tags:
   - question/18
 ---

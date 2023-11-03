@@ -33,7 +33,15 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <p>
+            {% if page.previous %}
+                <a href="{{ page.previous }}">Previous</a>
+                -
+            {% endif %}
             <a href="{{ site.url }}{{ site.baseurl }}">Homepage</a>
+            {% if page.next %}
+                -
+                <a href="{{ page.next }}">Next</a>
+            {% endif %}
           </p>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
