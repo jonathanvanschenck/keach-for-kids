@@ -1,0 +1,57 @@
+---
+question: 83
+completed: false
+---
+#question/83
+# Question 83
+
+## Question
+
+
+## Answer
+
+
+## Scriptural References
+### Zechariah 8:16 (ESV)
+> <sup>16</sup>These are the things that you shall do: Speak the truth to one another; render in your gates judgments that are true and make for peace;
+
+### Acts 25:10 (ESV)
+> <sup>10</sup>But Paul said, “I am standing before Caesar's tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourself know very well.
+
+### Ecclesiastes 7:1 (ESV)
+> <sup>1</sup>A good name is better than precious ointment, and the day of death than the day of birth.
+
+### 3 John 12 (ESV)
+> <sup>12</sup>Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true.
+
+### Proverbs 14:5-25 (ESV)
+> <sup>5</sup>A faithful witness does not lie, but a false witness breathes out lies.
+> <sup>6</sup>A scoffer seeks wisdom in vain, but knowledge is easy for a man of understanding.
+> <sup>7</sup>Leave the presence of a fool, for there you do not meet words of knowledge.
+> <sup>8</sup>The wisdom of the prudent is to discern his way, but the folly of fools is deceiving.
+> <sup>9</sup>Fools mock at the guilt offering, but the upright enjoy acceptance.
+> <sup>10</sup>The heart knows its own bitterness, and no stranger shares its joy.
+> <sup>11</sup>The house of the wicked will be destroyed, but the tent of the upright will flourish.
+> <sup>12</sup>There is a way that seems right to a man, but its end is the way to death.
+> <sup>13</sup>Even in laughter the heart may ache, and the end of joy may be grief.
+> <sup>14</sup>The backslider in heart will be filled with the fruit of his ways, and a good man will be filled with the fruit of his ways.
+> <sup>15</sup>The simple believes everything, but the prudent gives thought to his steps.
+> <sup>16</sup>One who is wise is cautious and turns away from evil, but a fool is reckless and careless.
+> <sup>17</sup>A man of quick temper acts foolishly, and a man of evil devices is hated.
+> <sup>18</sup>The simple inherit folly, but the prudent are crowned with knowledge.
+> <sup>19</sup>The evil bow down before the good, the wicked at the gates of the righteous.
+> <sup>20</sup>The poor is disliked even by his neighbor, but the rich has many friends.
+> <sup>21</sup>Whoever despises his neighbor is a sinner, but blessed is he who is generous to the poor.
+> <sup>22</sup>Do they not go astray who devise evil? Those who devise good meet steadfast love and faithfulness.
+> <sup>23</sup>In all toil there is profit, but mere talk tends only to poverty.
+> <sup>24</sup>The crown of the wise is their wealth, but the folly of fools brings folly.
+> <sup>25</sup>A truthful witness saves lives, but one who breathes out lies is deceitful.
+
+# O.G. Keach
+## Question
+What is required in the ninth commandment?
+
+## Answer
+The ninth commandment requires the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.
+
+## Adaptation Commentary

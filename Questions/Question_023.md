@@ -1,0 +1,61 @@
+---
+question: 23
+completed: false
+---
+#question/23
+# Question 23
+
+## Question
+
+
+## Answer
+
+
+## Scriptural References
+### Genesis 3:8-24 (ESV)
+> <sup>8</sup>And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.
+> <sup>9</sup>But the LORD God called to the man and said to him, “Where are you?”
+> <sup>10</sup>And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.”
+> <sup>11</sup>He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?”
+> <sup>12</sup>The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.”
+> <sup>13</sup>Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”
+> <sup>14</sup>The LORD God said to the serpent, “Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life.
+> <sup>15</sup>I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”
+> <sup>16</sup>To the woman he said, “I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but he shall rule over you.”
+> <sup>17</sup>And to Adam he said, “Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you; in pain you shall eat of it all the days of your life;
+> <sup>18</sup>thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.
+> <sup>19</sup>By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.”
+> <sup>20</sup>The man called his wife's name Eve, because she was the mother of all living.
+> <sup>21</sup>And the LORD God made for Adam and for his wife garments of skins and clothed them.
+> <sup>22</sup>Then the LORD God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever—”
+> <sup>23</sup>therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken.
+> <sup>24</sup>He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.
+
+### Ephesians 2:3 (ESV)
+> <sup>3</sup>among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
+
+### Galatians 3:10 (ESV)
+> <sup>10</sup>For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”
+
+### Romans 6:23 (ESV)
+> <sup>23</sup>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
+
+### Matthew 25:41-46 (ESV)
+> <sup>41</sup>“Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.
+> <sup>42</sup>For I was hungry and you gave me no food, I was thirsty and you gave me no drink,
+> <sup>43</sup>I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’
+> <sup>44</sup>Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’
+> <sup>45</sup>Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’
+> <sup>46</sup>And these will go away into eternal punishment, but the righteous into eternal life.”
+
+### Psalm 9:17 (ESV)
+> <sup>17</sup>The wicked shall return to Sheol, all the nations that forget God.
+
+# O.G. Keach
+## Question
+What is the misery of that estate whereunto man fell?
+
+## Answer
+All mankind, by their fall lost communion with God, are under His wrath and curse, and 80 made liable to all the miseries of this life, to death itself, and to the pains of hell forever.
+
+## Adaptation Commentary

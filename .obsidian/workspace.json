@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3959bd7ac8e6f970",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7d9f349df31490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06aa8ce6bd9a32e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table_of_Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb3e55954f9d6913",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e51a46fa2d1cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d56073a2ead62d0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0f0005146c8a530",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35e7bd5dd70f6896",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df6bef9884e46038",
+    "type": "split",
+    "children": [
+      {
+        "id": "603aad949e82f818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6855558ffde0dd87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Table_of_Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b335c1fb655e54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Table_of_Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bda603d2ee795315",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46da4657e5408c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Table_of_Contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d06aa8ce6bd9a32e",
+  "lastOpenFiles": [
+    "Questions/Question_001.md",
+    "Table_of_Contents.md",
+    "Untitled.md",
+    "Questions/Question_029.md",
+    "Questions/Question_118.md",
+    "Questions/Question_117.md",
+    "Questions/Question_116.md",
+    "Questions/Question_115.md",
+    "Questions/Question_114.md",
+    "Questions/Question_113.md",
+    "Questions/Question_112.md",
+    "Questions/Question_111.md",
+    "Questions/Question_110.md",
+    "Questions/Question_109.md",
+    "Questions/Question_108.md",
+    "Questions/Question_107.md",
+    "Questions/Question_106.md",
+    "Questions/Question_105.md",
+    "Questions/Question_104.md",
+    "Questions/Question_103.md",
+    "Questions/Question_102.md",
+    "Questions/Question_101.md",
+    "Questions/Question_100.md",
+    "Questions/Question_099.md",
+    "Questions/Question_098.md",
+    "Questions/Question_097.md",
+    "Questions/Question_073",
+    "Questions/Question_072",
+    "Questions/Question_071",
+    "Questions/Question_070",
+    "Questions/Question_069",
+    "Questions/Question_068",
+    "Questions/Question_067",
+    "Questions/Question_066",
+    "Questions/Question_065",
+    "Questions/Question_064",
+    "Graphics/Reversshi Workflow.canvas",
+    "Graphics/RC v2 Architecture.canvas",
+    "Graphics/RC v1 Architecture.canvas"
+  ]
+}
