@@ -3,11 +3,11 @@ title: Table of Contents
 ---
 # Table of Contents
 
-<span>
+<div>
   <span>Progress:</span>
   <progress value="0" max="118"></progress>
   <span style="margin-left: 1rem;">0.0%</span>
-</span>
+</div>
 
 | Link | Completed |
 | :----: | :---------: |

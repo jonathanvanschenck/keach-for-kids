@@ -32,11 +32,11 @@ title: Table of Contents
 ---
 # Table of Contents
 
-<span>
+<div>
   <span>Progress:</span>
   <progress value="${done}" max="${total}"></progress>
   <span style="margin-left: 1rem;">${(100*done/total).toFixed(1)}%</span>
-</span>
+</div>
 
 | Link | Completed |
 | :----: | :---------: |
