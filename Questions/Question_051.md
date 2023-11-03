@@ -2,8 +2,10 @@
 title: "Question 51"
 question: 51
 completed: false
+layout: default
+tags:
+  - question/51
 ---
-#question/51
 # Question 51
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:3 (ESV)
 > <sup>3</sup>“You shall have no other gods before me.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the first commandment?
 

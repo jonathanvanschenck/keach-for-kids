@@ -2,8 +2,10 @@
 title: "Question 35"
 question: 35
 completed: false
+layout: default
+tags:
+  - question/35
 ---
-#question/35
 # Question 35
 
 ## Question
@@ -38,7 +40,7 @@ completed: false
 ### 1 Corinthians 12:3 (ESV)
 > <sup>3</sup>Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is effectual calling?
 

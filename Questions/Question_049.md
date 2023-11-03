@@ -2,8 +2,10 @@
 title: "Question 49"
 question: 49
 completed: false
+layout: default
+tags:
+  - question/49
 ---
-#question/49
 # Question 49
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:2 (ESV)
 > <sup>2</sup>“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the preface to the Ten Commandments?
 

@@ -2,8 +2,10 @@
 title: "Question 58"
 question: 58
 completed: false
+layout: default
+tags:
+  - question/58
 ---
-#question/58
 # Question 58
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### 1 Corinthians 10:22 (ESV)
 > <sup>22</sup>Shall we provoke the Lord to jealousy? Are we stronger than he?
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are the reasons annexed to the second commandment?
 

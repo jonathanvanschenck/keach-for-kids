@@ -2,8 +2,10 @@
 title: "Question 83"
 question: 83
 completed: false
+layout: default
+tags:
+  - question/83
 ---
-#question/83
 # Question 83
 
 ## Question
@@ -48,7 +50,7 @@ completed: false
 > <sup>24</sup>The crown of the wise is their wealth, but the folly of fools brings folly.
 > <sup>25</sup>A truthful witness saves lives, but one who breathes out lies is deceitful.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the ninth commandment?
 

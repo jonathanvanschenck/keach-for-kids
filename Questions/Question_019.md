@@ -2,8 +2,10 @@
 title: "Question 19"
 question: 19
 completed: false
+layout: default
+tags:
+  - question/19
 ---
-#question/19
 # Question 19
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Genesis 3:13 (ESV)
 > <sup>13</sup>Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What was the sin whereby our first parents fell from the estate wherein they were created?
 

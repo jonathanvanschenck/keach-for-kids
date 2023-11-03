@@ -2,8 +2,10 @@
 title: "Question 73"
 question: 73
 completed: false
+layout: default
+tags:
+  - question/73
 ---
-#question/73
 # Question 73
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:13 (ESV)
 > <sup>13</sup>“You shall not murder.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the sixth commandment?
 

@@ -2,8 +2,10 @@
 title: "Question 29"
 question: 29
 completed: false
+layout: default
+tags:
+  - question/29
 ---
-#question/29
 # Question 29
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Romans 8:34 (ESV)
 > <sup>34</sup>Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How does Christ execute the office of a priest?
 

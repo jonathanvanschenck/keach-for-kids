@@ -2,8 +2,10 @@
 title: "Question 72"
 question: 72
 completed: false
+layout: default
+tags:
+  - question/72
 ---
-#question/72
 # Question 72
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 > <sup>21</sup>Bind them on your heart always; tie them around your neck.
 > <sup>22</sup>When you walk, they will lead you; when you lie down, they will watch over you; and when you awake, they will talk with you.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the reason annexed to the fifth commandment?
 

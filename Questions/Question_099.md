@@ -2,8 +2,10 @@
 title: "Question 99"
 question: 99
 completed: false
+layout: default
+tags:
+  - question/99
 ---
-#question/99
 # Question 99
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Romans 6:4 (ESV)
 > <sup>4</sup>We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Wherein do Baptism and the Lord's Supper differ from the other ordinances of God?
 

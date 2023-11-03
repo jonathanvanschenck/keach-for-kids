@@ -2,8 +2,10 @@
 title: "Question 59"
 question: 59
 completed: false
+layout: default
+tags:
+  - question/59
 ---
-#question/59
 # Question 59
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:7 (ESV)
 > <sup>7</sup>“You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the third commandment?
 

@@ -2,8 +2,10 @@
 title: "Question 50"
 question: 50
 completed: false
+layout: default
+tags:
+  - question/50
 ---
-#question/50
 # Question 50
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Deuteronomy 11:1 (ESV)
 > <sup>1</sup>“You shall therefore love the LORD your God and keep his charge, his statutes, his rules, and his commandments always.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What does the preface to the Ten Commandments teach us?
 

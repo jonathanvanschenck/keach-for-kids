@@ -2,8 +2,10 @@
 title: "Question 40"
 question: 40
 completed: false
+layout: default
+tags:
+  - question/40
 ---
-#question/40
 # Question 40
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 ### 1 John 5:13 (ESV)
 > <sup>13</sup>I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?
 

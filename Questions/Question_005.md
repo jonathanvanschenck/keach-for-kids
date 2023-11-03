@@ -2,8 +2,10 @@
 title: "Question 5"
 question: 5
 completed: false
+layout: default
+tags:
+  - question/5
 ---
-#question/5
 # Question 5
 
 ## Question
@@ -68,7 +70,7 @@ completed: false
 > <sup>16</sup>But when one turns to the Lord, the veil is removed.
 > <sup>17</sup>Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How do we know that the Bible is the Word of God?
 

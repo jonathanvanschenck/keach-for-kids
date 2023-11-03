@@ -2,8 +2,10 @@
 title: "Question 22"
 question: 22
 completed: false
+layout: default
+tags:
+  - question/22
 ---
-#question/22
 # Question 22
 
 ## Question
@@ -31,7 +33,7 @@ completed: false
 ### Matthew 15:19 (ESV)
 > <sup>19</sup>For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Wherein consists the sinfulness of that estate whereunto man fell?
 

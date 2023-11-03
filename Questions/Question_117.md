@@ -2,8 +2,10 @@
 title: "Question 117"
 question: 117
 completed: false
+layout: default
+tags:
+  - question/117
 ---
-#question/117
 # Question 117
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 ### John 17:15 (ESV)
 > <sup>15</sup>I do not ask that you take them out of the world, but that you keep them from the evil one.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do we pray for in the sixth petition?
 

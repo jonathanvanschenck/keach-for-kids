@@ -2,8 +2,10 @@
 title: "Question 28"
 question: 28
 completed: false
+layout: default
+tags:
+  - question/28
 ---
-#question/28
 # Question 28
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### John 15:15 (ESV)
 > <sup>15</sup>No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How does Christ execute the office of a prophet?
 

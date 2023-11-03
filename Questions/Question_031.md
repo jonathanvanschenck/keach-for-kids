@@ -2,8 +2,10 @@
 title: "Question 31"
 question: 31
 completed: false
+layout: default
+tags:
+  - question/31
 ---
-#question/31
 # Question 31
 
 ## Question
@@ -38,7 +40,7 @@ completed: false
 > <sup>45</sup>And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
 > <sup>46</sup>And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. And he rolled a stone against the entrance of the tomb.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Wherein did Christ's humiliation consist?
 

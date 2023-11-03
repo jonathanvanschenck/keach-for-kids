@@ -2,8 +2,10 @@
 title: "Question 81"
 question: 81
 completed: false
+layout: default
+tags:
+  - question/81
 ---
-#question/81
 # Question 81
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### Ephesians 4:28 (ESV)
 > <sup>28</sup>Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the eighth commandment?
 

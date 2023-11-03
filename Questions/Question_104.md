@@ -2,8 +2,10 @@
 title: "Question 104"
 question: 104
 completed: false
+layout: default
+tags:
+  - question/104
 ---
-#question/104
 # Question 104
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 ### Romans 16:5 (ESV)
 > <sup>5</sup>Greet also the church in their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the duty of those who are rightly baptized?
 

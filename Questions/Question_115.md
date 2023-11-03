@@ -2,8 +2,10 @@
 title: "Question 115"
 question: 115
 completed: false
+layout: default
+tags:
+  - question/115
 ---
-#question/115
 # Question 115
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 > <sup>4</sup>For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving,
 > <sup>5</sup>for it is made holy by the word of God and prayer.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What do we pray for in the fourth petition?
 

@@ -2,8 +2,10 @@
 title: "Question 1"
 question: 1
 completed: false
+layout: default
+tags:
+  - question/1
 ---
-#question/1
 # Question 1
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Psalm 97:9 (ESV)
 > <sup>9</sup>For you, O LORD, are most high over all the earth; you are exalted far above all gods.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Who is the first and best of beings?
 

@@ -2,8 +2,10 @@
 title: "Question 47"
 question: 47
 completed: false
+layout: default
+tags:
+  - question/47
 ---
-#question/47
 # Question 47
 
 ## Question
@@ -19,7 +21,7 @@ completed: false
 ### Matthew 19:17 (ESV)
 > <sup>17</sup>And he said to him, “Why do you ask me about what is good? There is only one who is good. If you would enter life, keep the commandments.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Where is the moral law summarily comprehended?
 

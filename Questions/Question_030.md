@@ -2,8 +2,10 @@
 title: "Question 30"
 question: 30
 completed: false
+layout: default
+tags:
+  - question/30
 ---
-#question/30
 # Question 30
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### 1 Corinthians 15:25 (ESV)
 > <sup>25</sup>For he must reign until he has put all his enemies under his feet.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How does Christ execute the office of a king?
 

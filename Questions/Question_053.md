@@ -2,8 +2,10 @@
 title: "Question 53"
 question: 53
 completed: false
+layout: default
+tags:
+  - question/53
 ---
-#question/53
 # Question 53
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### Romans 1:25 (ESV)
 > <sup>25</sup>because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the first commandment?
 

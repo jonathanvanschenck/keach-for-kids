@@ -2,8 +2,10 @@
 title: "Question 64"
 question: 64
 completed: false
+layout: default
+tags:
+  - question/64
 ---
-#question/64
 # Question 64
 
 ## Question
@@ -19,7 +21,7 @@ completed: false
 ### Deuteronomy 5:12 (ESV)
 > <sup>12</sup>“‘Observe the Sabbath day, to keep it holy, as the LORD your God commanded you.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the fourth commandment?
 

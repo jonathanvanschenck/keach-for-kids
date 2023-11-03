@@ -2,8 +2,10 @@
 title: "Question 36"
 question: 36
 completed: false
+layout: default
+tags:
+  - question/36
 ---
-#question/36
 # Question 36
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 ### 1 Corinthians 1:30 (ESV)
 > <sup>30</sup>And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What benefits do they that are effectually called, partake of in this life?
 

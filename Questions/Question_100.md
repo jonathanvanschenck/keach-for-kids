@@ -2,8 +2,10 @@
 title: "Question 100"
 question: 100
 completed: false
+layout: default
+tags:
+  - question/100
 ---
-#question/100
 # Question 100
 
 ## Question
@@ -27,7 +29,7 @@ completed: false
 ### Galatians 3:27 (ESV)
 > <sup>27</sup>For as many of you as were baptized into Christ have put on Christ.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is Baptism?
 

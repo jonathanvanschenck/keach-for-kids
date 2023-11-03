@@ -2,8 +2,10 @@
 title: "Question 52"
 question: 52
 completed: false
+layout: default
+tags:
+  - question/52
 ---
-#question/52
 # Question 52
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 ### Matthew 4:10 (ESV)
 > <sup>10</sup>Then Jesus said to him, “Be gone, Satan! For it is written, “‘You shall worship the Lord your God and him only shall you serve.’”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required in the first commandment?
 

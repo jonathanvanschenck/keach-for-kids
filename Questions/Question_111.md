@@ -2,8 +2,10 @@
 title: "Question 111"
 question: 111
 completed: false
+layout: default
+tags:
+  - question/111
 ---
-#question/111
 # Question 111
 
 ## Question
@@ -30,7 +32,7 @@ completed: false
 > <sup>2</sup>for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way.
 > <sup>3</sup>This is good, and it is pleasing in the sight of God our Savior,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What does the preface of the Lord's Prayer teach us?
 

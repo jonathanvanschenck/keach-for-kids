@@ -2,8 +2,10 @@
 title: "Question 88"
 question: 88
 completed: false
+layout: default
+tags:
+  - question/88
 ---
-#question/88
 # Question 88
 
 ## Question
@@ -34,7 +36,7 @@ completed: false
 ### Romans 3:23 (ESV)
 > <sup>23</sup>for all have sinned and fall short of the glory of God,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Is any man able perfectly to keep the commandments of God?
 

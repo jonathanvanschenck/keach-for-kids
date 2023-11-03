@@ -2,8 +2,10 @@
 title: "Question 14"
 question: 14
 completed: false
+layout: default
+tags:
+  - question/14
 ---
-#question/14
 # Question 14
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Genesis 1:28 (ESV)
 > <sup>28</sup>And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How did God create man?
 

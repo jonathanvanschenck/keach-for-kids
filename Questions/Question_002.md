@@ -2,8 +2,10 @@
 title: "Question 2"
 question: 2
 completed: false
+layout: default
+tags:
+  - question/2
 ---
-#question/2
 # Question 2
 
 ## Question
@@ -20,7 +22,7 @@ completed: false
 > <sup>25</sup>Whom have I in heaven but you? And there is nothing on earth that I desire besides you.
 > <sup>26</sup>My flesh and my heart may fail, but God is the strength of my heart and my portion forever.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the chief end of man?
 

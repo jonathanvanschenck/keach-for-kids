@@ -2,8 +2,10 @@
 title: "Question 13"
 question: 13
 completed: false
+layout: default
+tags:
+  - question/13
 ---
-#question/13
 # Question 13
 
 ## Question
@@ -25,7 +27,7 @@ completed: false
 ### Genesis 1:31 (ESV)
 > <sup>31</sup>And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the work of creation?
 

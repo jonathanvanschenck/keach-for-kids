@@ -2,8 +2,10 @@
 title: "Question 107"
 question: 107
 completed: false
+layout: default
+tags:
+  - question/107
 ---
-#question/107
 # Question 107
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### 1 Corinthians 10:16 (ESV)
 > <sup>16</sup>The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the Lord's Supper?
 

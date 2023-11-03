@@ -2,8 +2,10 @@
 title: "Question 23"
 question: 23
 completed: false
+layout: default
+tags:
+  - question/23
 ---
-#question/23
 # Question 23
 
 ## Question
@@ -52,7 +54,7 @@ completed: false
 ### Psalm 9:17 (ESV)
 > <sup>17</sup>The wicked shall return to Sheol, all the nations that forget God.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the misery of that estate whereunto man fell?
 

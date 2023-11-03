@@ -2,8 +2,10 @@
 title: "Question 48"
 question: 48
 completed: false
+layout: default
+tags:
+  - question/48
 ---
-#question/48
 # Question 48
 
 ## Question
@@ -28,7 +30,7 @@ completed: false
 > <sup>32</sup>And the scribe said to him, “You are right, Teacher. You have truly said that he is one, and there is no other besides him.
 > <sup>33</sup>And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the sum of the Ten Commandments?
 

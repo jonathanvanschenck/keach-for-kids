@@ -2,8 +2,10 @@
 title: "Question 46"
 question: 46
 completed: false
+layout: default
+tags:
+  - question/46
 ---
-#question/46
 # Question 46
 
 ## Question
@@ -21,7 +23,7 @@ completed: false
 > <sup>13</sup>for sin indeed was in the world before the law was given, but sin is not counted where there is no law.
 > <sup>14</sup>Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What did God at first reveal to man for the rule of his obedience?
 

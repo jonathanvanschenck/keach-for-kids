@@ -2,8 +2,10 @@
 title: "Question 67"
 question: 67
 completed: false
+layout: default
+tags:
+  - question/67
 ---
-#question/67
 # Question 67
 
 ## Question
@@ -30,7 +32,7 @@ completed: false
 ### Acts 20:7 (ESV)
 > <sup>7</sup>On the first day of the week, when we were gathered together to break bread, Paul talked with them, intending to depart on the next day, and he prolonged his speech until midnight.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is forbidden in the fourth commandment?
 

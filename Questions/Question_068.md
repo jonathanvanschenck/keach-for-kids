@@ -2,8 +2,10 @@
 title: "Question 68"
 question: 68
 completed: false
+layout: default
+tags:
+  - question/68
 ---
-#question/68
 # Question 68
 
 ## Question
@@ -24,7 +26,7 @@ completed: false
 > <sup>2</sup>And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.
 > <sup>3</sup>So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are the reasons annexed to the fourth commandment?
 

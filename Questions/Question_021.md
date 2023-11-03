@@ -2,8 +2,10 @@
 title: "Question 21"
 question: 21
 completed: false
+layout: default
+tags:
+  - question/21
 ---
-#question/21
 # Question 21
 
 ## Question
@@ -23,7 +25,7 @@ completed: false
 ### Isaiah 64:6 (ESV)
 > <sup>6</sup>We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Into what estate did the fall bring mankind?
 

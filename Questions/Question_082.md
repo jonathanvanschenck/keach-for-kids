@@ -2,8 +2,10 @@
 title: "Question 82"
 question: 82
 completed: false
+layout: default
+tags:
+  - question/82
 ---
-#question/82
 # Question 82
 
 ## Question
@@ -16,7 +18,7 @@ completed: false
 ### Exodus 20:16 (ESV)
 > <sup>16</sup>“You shall not bear false witness against your neighbor.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the ninth commandment?
 

@@ -2,8 +2,10 @@
 title: "Question 44"
 question: 44
 completed: false
+layout: default
+tags:
+  - question/44
 ---
-#question/44
 # Question 44
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### Matthew 25:41 (ESV)
 > <sup>41</sup>“Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What shall be done to the wicked at the day of judgement?
 

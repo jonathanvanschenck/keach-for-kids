@@ -2,8 +2,10 @@
 title: "Question 102"
 question: 102
 completed: false
+layout: default
+tags:
+  - question/102
 ---
-#question/102
 # Question 102
 
 ## Question
@@ -13,7 +15,7 @@ completed: false
 
 
 ## Scriptural References
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Are the infants of such as are professing believers to be baptized?
 

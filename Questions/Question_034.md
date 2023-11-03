@@ -2,8 +2,10 @@
 title: "Question 34"
 question: 34
 completed: false
+layout: default
+tags:
+  - question/34
 ---
-#question/34
 # Question 34
 
 ## Question
@@ -19,7 +21,7 @@ completed: false
 ### Ephesians 3:17 (ESV)
 > <sup>17</sup>so that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How does the Spirit apply to us the redemption purchased by Christ?
 

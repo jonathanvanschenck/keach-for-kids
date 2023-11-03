@@ -2,8 +2,10 @@
 title: "Question 10"
 question: 10
 completed: false
+layout: default
+tags:
+  - question/10
 ---
-#question/10
 # Question 10
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 ### 2 Corinthians 13:14 (ESV)
 > <sup>14</sup>The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How many persons are there in the Godhead?
 

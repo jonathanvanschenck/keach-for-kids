@@ -2,8 +2,10 @@
 title: "Question 89"
 question: 89
 completed: false
+layout: default
+tags:
+  - question/89
 ---
-#question/89
 # Question 89
 
 ## Question
@@ -53,7 +55,7 @@ completed: false
 ### 1 Timothy 1:8 (ESV)
 > <sup>8</sup>Now we know that the law is good, if one uses it lawfully,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What then is the purpose of the law since the fall?
 

@@ -2,8 +2,10 @@
 title: "Question 97"
 question: 97
 completed: false
+layout: default
+tags:
+  - question/97
 ---
-#question/97
 # Question 97
 
 ## Question
@@ -44,7 +46,7 @@ completed: false
 > <sup>24</sup>For he looks at himself and goes away and at once forgets what he was like.
 > <sup>25</sup>But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How is the Word to be read and heard that it may become effectual to salvation?
 

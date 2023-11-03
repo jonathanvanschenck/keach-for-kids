@@ -2,8 +2,10 @@
 title: "Question 11"
 question: 11
 completed: false
+layout: default
+tags:
+  - question/11
 ---
-#question/11
 # Question 11
 
 ## Question
@@ -22,7 +24,7 @@ completed: false
 ### Daniel 4:35 (ESV)
 > <sup>35</sup>all the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth; and none can stay his hand or say to him, “What have you done?”
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are the decrees of God?
 

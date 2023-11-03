@@ -21,8 +21,10 @@ for q in Q:
     out = out + "title: \"Question {number}\"\n".format(**q)
     out = out + "question: {number}\n".format(**q)
     out = out + "completed: false\n".format(**q)
+    out = out + "layout: default\n".format(**q)
+    out = out + "tags:\n".format(**q)
+    out = out + "  - question/{number}\n".format(**q)
     out = out + "---\n".format(**q)
-    out = out + "#question/{number}\n".format(**q)
     out = out + "# Question {number}\n\n".format(**q)
     out = out + "## Question\n".format(**q)
     out = out + "\n\n".format(**q)
@@ -35,7 +37,7 @@ for q in Q:
             out = out + "> <sup>{}</sup>{}\n".format(v.verse, v.text)
         out = out + "\n"
 
-    out = out + "# O.G. Keach\n".format(**q)
+    out = out + "# Traditional Formulation\n".format(**q)
     out = out + "## Question\n".format(**q)
     out = out + "{Q}\n\n".format(**q)
     out = out + "## Answer\n".format(**q)

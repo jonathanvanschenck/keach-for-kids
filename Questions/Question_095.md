@@ -2,8 +2,10 @@
 title: "Question 95"
 question: 95
 completed: false
+layout: default
+tags:
+  - question/95
 ---
-#question/95
 # Question 95
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 > <sup>41</sup>So those who received his word were baptized, and there were added that day about three thousand souls.
 > <sup>42</sup>And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What are the outward and ordinary means whereby Christ communicates to us the benefits of redemption?
 

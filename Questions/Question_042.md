@@ -2,8 +2,10 @@
 title: "Question 42"
 question: 42
 completed: false
+layout: default
+tags:
+  - question/42
 ---
-#question/42
 # Question 42
 
 ## Question
@@ -30,7 +32,7 @@ completed: false
 ### 1 Thessalonians 4:17 (ESV)
 > <sup>17</sup>Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What benefits do believers receive from Christ at the Resurrection?
 

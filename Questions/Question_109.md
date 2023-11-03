@@ -2,8 +2,10 @@
 title: "Question 109"
 question: 109
 completed: false
+layout: default
+tags:
+  - question/109
 ---
-#question/109
 # Question 109
 
 ## Question
@@ -32,7 +34,7 @@ completed: false
 > <sup>13</sup>Whatever you ask in my name, this I will do, that the Father may be glorified in the Son.
 > <sup>14</sup>If you ask me anything in my name, I will do it.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is Prayer?
 

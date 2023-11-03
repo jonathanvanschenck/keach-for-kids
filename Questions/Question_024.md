@@ -2,8 +2,10 @@
 title: "Question 24"
 question: 24
 completed: false
+layout: default
+tags:
+  - question/24
 ---
-#question/24
 # Question 24
 
 ## Question
@@ -29,7 +31,7 @@ completed: false
 ### Jeremiah 31:33 (ESV)
 > <sup>33</sup>For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Did God leave all mankind to perish in the estate of sin and misery?
 

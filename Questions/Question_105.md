@@ -2,8 +2,10 @@
 title: "Question 105"
 question: 105
 completed: false
+layout: default
+tags:
+  - question/105
 ---
-#question/105
 # Question 105
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 > <sup>11</sup>And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,
 > <sup>12</sup>to equip the saints for the work of ministry, for building up the body of Christ,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is the visible church?
 

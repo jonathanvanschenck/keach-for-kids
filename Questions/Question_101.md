@@ -2,8 +2,10 @@
 title: "Question 101"
 question: 101
 completed: false
+layout: default
+tags:
+  - question/101
 ---
-#question/101
 # Question 101
 
 ## Question
@@ -53,7 +55,7 @@ completed: false
 > <sup>47</sup>“Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?”
 > <sup>48</sup>And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 To whom is Baptism to be administered?
 

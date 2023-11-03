@@ -2,8 +2,10 @@
 title: "Question 108"
 question: 108
 completed: false
+layout: default
+tags:
+  - question/108
 ---
-#question/108
 # Question 108
 
 ## Question
@@ -26,7 +28,7 @@ completed: false
 ### 2 Corinthians 13:5 (ESV)
 > <sup>5</sup>Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not realize this about yourselves, that Jesus Christ is in you?—unless indeed you fail to meet the test!
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What is required to the worthy receiving of the Lord's Supper?
 

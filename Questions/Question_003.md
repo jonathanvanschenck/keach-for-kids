@@ -2,8 +2,10 @@
 title: "Question 3"
 question: 3
 completed: false
+layout: default
+tags:
+  - question/3
 ---
-#question/3
 # Question 3
 
 ## Question
@@ -35,7 +37,7 @@ completed: false
 > <sup>9</sup>But, as it is written, “What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him”—
 > <sup>10</sup>these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How do we know there is a God?
 

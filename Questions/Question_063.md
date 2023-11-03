@@ -2,8 +2,10 @@
 title: "Question 63"
 question: 63
 completed: false
+layout: default
+tags:
+  - question/63
 ---
-#question/63
 # Question 63
 
 ## Question
@@ -19,7 +21,7 @@ completed: false
 > <sup>10</sup>but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates.
 > <sup>11</sup>For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 Which is the fourth commandment?
 

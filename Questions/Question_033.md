@@ -2,8 +2,10 @@
 title: "Question 33"
 question: 33
 completed: false
+layout: default
+tags:
+  - question/33
 ---
-#question/33
 # Question 33
 
 ## Question
@@ -21,7 +23,7 @@ completed: false
 > <sup>5</sup>he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,
 > <sup>6</sup>whom he poured out on us richly through Jesus Christ our Savior,
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 How are we made partakers of the redemption purchased by Christ?
 

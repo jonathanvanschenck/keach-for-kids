@@ -2,8 +2,10 @@
 title: "Question 118"
 question: 118
 completed: false
+layout: default
+tags:
+  - question/118
 ---
-#question/118
 # Question 118
 
 ## Question
@@ -34,7 +36,7 @@ completed: false
 ### Revelation 22:20 (ESV)
 > <sup>20</sup>He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!
 
-# O.G. Keach
+# Traditional Formulation
 ## Question
 What does the conclusion of the Lord's Prayer teach us?
 
