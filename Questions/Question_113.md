@@ -3,25 +3,29 @@ title: "Question 113"
 question: 113
 completed: false
 layout: question
-permalink: "/question/113"
-next: "/question/114"
-previous: "/question/112"
+permalink: "/questions/113"
+next: "/questions/114"
+previous: "/questions/112"
 tags:
   - question/113
 ---
 # Question 113
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Matthew 6:10 (ESV)
+### Matthew 6:10 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+6%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>Your kingdom come, your will be done, on earth as it is in heaven.
 
-### Psalm 68:1-18 (ESV)
+### Psalm 68:1-18 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+68%3A1-18&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>God shall arise, his enemies shall be scattered; and those who hate him shall flee before him!
 > <sup>2</sup>As smoke is driven away, so you shall drive them away; as wax melts before fire, so the wicked shall perish before God!
 > <sup>3</sup>But the righteous shall be glad; they shall exult before God; they shall be jubilant with joy!
@@ -41,24 +45,28 @@ tags:
 > <sup>17</sup>The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them; Sinai is now in the sanctuary.
 > <sup>18</sup>You ascended on high, leading a host of captives in your train and receiving gifts among men, even among the rebellious, that the LORD God may dwell there.
 
-### Romans 10:1 (ESV)
+### Romans 10:1 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+10%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>Brothers, my heart's desire and prayer to God for them is that they may be saved.
 
-### 2 Thessalonians 3:1 (ESV)
+### 2 Thessalonians 3:1 (ESV) <a href="https://biblegateway.com/passage/?search=2+Thessalonians+3%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>Finally, brothers, pray for us, that the word of the Lord may speed ahead and be honored, as happened among you,
 
-### Matthew 9:37-38 (ESV)
+### Matthew 9:37-38 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+9%3A37-38&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>37</sup>Then he said to his disciples, “The harvest is plentiful, but the laborers are few;
 > <sup>38</sup>therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 
-### Revelation 22:20 (ESV)
+### Revelation 22:20 (ESV) <a href="https://biblegateway.com/passage/?search=Revelation+22%3A20&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>20</sup>He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!
 
-# Traditional Formulation
-## Question
-What do we pray for in the second petition?
+---
+## Traditional Formulation
+<strong>
+    Question: What do we pray for in the second petition?
+</strong>
 
-## Answer
-In the second petition, which is "Thy kingdom come," we pray that satan's kingdom may be destroyed, and that the kingdom of grace may be advanced; ourselves and others brought into it, and kept in it, and that the kingdom of glory may be hastened.
+<em>
+    Answer: In the second petition, which is "Thy kingdom come," we pray that satan's kingdom may be destroyed, and that the kingdom of grace may be advanced; ourselves and others brought into it, and kept in it, and that the kingdom of glory may be hastened.
+</em>
 
+---
 ## Adaptation Commentary

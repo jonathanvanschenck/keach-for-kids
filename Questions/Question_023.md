@@ -3,22 +3,26 @@ title: "Question 23"
 question: 23
 completed: false
 layout: question
-permalink: "/question/23"
-next: "/question/24"
-previous: "/question/22"
+permalink: "/questions/23"
+next: "/questions/24"
+previous: "/questions/22"
 tags:
   - question/23
 ---
 # Question 23
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Genesis 3:8-24 (ESV)
+### Genesis 3:8-24 (ESV) <a href="https://biblegateway.com/passage/?search=Genesis+3%3A8-24&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>8</sup>And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.
 > <sup>9</sup>But the LORD God called to the man and said to him, “Where are you?”
 > <sup>10</sup>And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.”
@@ -37,16 +41,16 @@ tags:
 > <sup>23</sup>therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken.
 > <sup>24</sup>He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.
 
-### Ephesians 2:3 (ESV)
+### Ephesians 2:3 (ESV) <a href="https://biblegateway.com/passage/?search=Ephesians+2%3A3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>3</sup>among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
 
-### Galatians 3:10 (ESV)
+### Galatians 3:10 (ESV) <a href="https://biblegateway.com/passage/?search=Galatians+3%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”
 
-### Romans 6:23 (ESV)
+### Romans 6:23 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+6%3A23&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>23</sup>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
 
-### Matthew 25:41-46 (ESV)
+### Matthew 25:41-46 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+25%3A41-46&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>41</sup>“Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.
 > <sup>42</sup>For I was hungry and you gave me no food, I was thirsty and you gave me no drink,
 > <sup>43</sup>I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’
@@ -54,14 +58,18 @@ tags:
 > <sup>45</sup>Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’
 > <sup>46</sup>And these will go away into eternal punishment, but the righteous into eternal life.”
 
-### Psalm 9:17 (ESV)
+### Psalm 9:17 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+9%3A17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>17</sup>The wicked shall return to Sheol, all the nations that forget God.
 
-# Traditional Formulation
-## Question
-What is the misery of that estate whereunto man fell?
+---
+## Traditional Formulation
+<strong>
+    Question: What is the misery of that estate whereunto man fell?
+</strong>
 
-## Answer
-All mankind, by their fall lost communion with God, are under His wrath and curse, and 80 made liable to all the miseries of this life, to death itself, and to the pains of hell forever.
+<em>
+    Answer: All mankind, by their fall lost communion with God, are under His wrath and curse, and 80 made liable to all the miseries of this life, to death itself, and to the pains of hell forever.
+</em>
 
+---
 ## Adaptation Commentary

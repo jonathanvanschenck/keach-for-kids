@@ -3,34 +3,42 @@ title: "Question 33"
 question: 33
 completed: false
 layout: question
-permalink: "/question/33"
-next: "/question/34"
-previous: "/question/32"
+permalink: "/questions/33"
+next: "/questions/34"
+previous: "/questions/32"
 tags:
   - question/33
 ---
 # Question 33
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### John 3:5-6 (ESV)
+### John 3:5-6 (ESV) <a href="https://biblegateway.com/passage/?search=John+3%3A5-6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>5</sup>Jesus answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.
 > <sup>6</sup>That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
 
-### Titus 3:5-6 (ESV)
+### Titus 3:5-6 (ESV) <a href="https://biblegateway.com/passage/?search=Titus+3%3A5-6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>5</sup>he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,
 > <sup>6</sup>whom he poured out on us richly through Jesus Christ our Savior,
 
-# Traditional Formulation
-## Question
-How are we made partakers of the redemption purchased by Christ?
+---
+## Traditional Formulation
+<strong>
+    Question: How are we made partakers of the redemption purchased by Christ?
+</strong>
 
-## Answer
-We are made partakers of the redemption purchased by Christ, by the effectual application of it to us, by His Holy Spirit.
+<em>
+    Answer: We are made partakers of the redemption purchased by Christ, by the effectual application of it to us, by His Holy Spirit.
+</em>
 
+---
 ## Adaptation Commentary

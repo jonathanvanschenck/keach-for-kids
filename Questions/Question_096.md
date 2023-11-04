@@ -3,22 +3,26 @@ title: "Question 96"
 question: 96
 completed: false
 layout: question
-permalink: "/question/96"
-next: "/question/97"
-previous: "/question/95"
+permalink: "/questions/96"
+next: "/questions/97"
+previous: "/questions/95"
 tags:
   - question/96
 ---
 # Question 96
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Psalm 119:11-18 (ESV)
+### Psalm 119:11-18 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+119%3A11-18&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>I have stored up your word in my heart, that I might not sin against you.
 > <sup>12</sup>Blessed are you, O LORD; teach me your statutes!
 > <sup>13</sup>With my lips I declare all the rules of your mouth.
@@ -28,24 +32,28 @@ tags:
 > <sup>17</sup>Deal bountifully with your servant, that I may live and keep your word.
 > <sup>18</sup>Open my eyes, that I may behold wondrous things out of your law.
 
-### 1 Thessalonians 1:6 (ESV)
+### 1 Thessalonians 1:6 (ESV) <a href="https://biblegateway.com/passage/?search=1+Thessalonians+1%3A6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>6</sup>And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,
 
-### 1 Peter 2:1-2 (ESV)
+### 1 Peter 2:1-2 (ESV) <a href="https://biblegateway.com/passage/?search=1+Peter+2%3A1-2&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>So put away all malice and all deceit and hypocrisy and envy and all slander.
 > <sup>2</sup>Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation—
 
-### Romans 1:16 (ESV)
+### Romans 1:16 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+1%3A16&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>16</sup>For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
 
-### Psalm 19:7 (ESV)
+### Psalm 19:7 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+19%3A7&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>7</sup>The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple;
 
-# Traditional Formulation
-## Question
-How is the Word made effectual to salvation?
+---
+## Traditional Formulation
+<strong>
+    Question: How is the Word made effectual to salvation?
+</strong>
 
-## Answer
-The Spirit of God makes the reading, but especially the preaching of the Word an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith unto salvation.
+<em>
+    Answer: The Spirit of God makes the reading, but especially the preaching of the Word an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith unto salvation.
+</em>
 
+---
 ## Adaptation Commentary

@@ -3,29 +3,33 @@ title: "Question 48"
 question: 48
 completed: false
 layout: question
-permalink: "/question/48"
-next: "/question/49"
-previous: "/question/47"
+permalink: "/questions/48"
+next: "/questions/49"
+previous: "/questions/47"
 tags:
   - question/48
 ---
 # Question 48
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Matthew 22:36-40 (ESV)
+### Matthew 22:36-40 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+22%3A36-40&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>36</sup>“Teacher, which is the great commandment in the Law?”
 > <sup>37</sup>And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind.
 > <sup>38</sup>This is the great and first commandment.
 > <sup>39</sup>And a second is like it: You shall love your neighbor as yourself.
 > <sup>40</sup>On these two commandments depend all the Law and the Prophets.”
 
-### Mark 12:28-33 (ESV)
+### Mark 12:28-33 (ESV) <a href="https://biblegateway.com/passage/?search=Mark+12%3A28-33&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>28</sup>And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, “Which commandment is the most important of all?”
 > <sup>29</sup>Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one.
 > <sup>30</sup>And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
@@ -33,11 +37,15 @@ tags:
 > <sup>32</sup>And the scribe said to him, “You are right, Teacher. You have truly said that he is one, and there is no other besides him.
 > <sup>33</sup>And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”
 
-# Traditional Formulation
-## Question
-What is the sum of the Ten Commandments?
+---
+## Traditional Formulation
+<strong>
+    Question: What is the sum of the Ten Commandments?
+</strong>
 
-## Answer
-The sum of the Ten Commandments is, to love the Lord our God, with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.
+<em>
+    Answer: The sum of the Ten Commandments is, to love the Lord our God, with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.
+</em>
 
+---
 ## Adaptation Commentary

@@ -3,35 +3,43 @@ title: "Question 17"
 question: 17
 completed: false
 layout: question
-permalink: "/question/17"
-next: "/question/18"
-previous: "/question/16"
+permalink: "/questions/17"
+next: "/questions/18"
+previous: "/questions/16"
 tags:
   - question/17
 ---
 # Question 17
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Genesis 3:6 (ESV)
+### Genesis 3:6 (ESV) <a href="https://biblegateway.com/passage/?search=Genesis+3%3A6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>6</sup>So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.
 
-### Ecclesiastes 7:29 (ESV)
+### Ecclesiastes 7:29 (ESV) <a href="https://biblegateway.com/passage/?search=Ecclesiastes+7%3A29&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>29</sup>See, this alone I found, that God made man upright, but they have sought out many schemes.
 
-### Romans 5:12 (ESV)
+### Romans 5:12 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+5%3A12&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>12</sup>Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—
 
-# Traditional Formulation
-## Question
-Did our first parents continue in the estate wherein they were created?
+---
+## Traditional Formulation
+<strong>
+    Question: Did our first parents continue in the estate wherein they were created?
+</strong>
 
-## Answer
-Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.
+<em>
+    Answer: Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.
+</em>
 
+---
 ## Adaptation Commentary

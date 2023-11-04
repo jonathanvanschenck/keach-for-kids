@@ -3,29 +3,37 @@ title: "Question 50"
 question: 50
 completed: false
 layout: question
-permalink: "/question/50"
-next: "/question/51"
-previous: "/question/49"
+permalink: "/questions/50"
+next: "/questions/51"
+previous: "/questions/49"
 tags:
   - question/50
 ---
 # Question 50
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Deuteronomy 11:1 (ESV)
+### Deuteronomy 11:1 (ESV) <a href="https://biblegateway.com/passage/?search=Deuteronomy+11%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>“You shall therefore love the LORD your God and keep his charge, his statutes, his rules, and his commandments always.
 
-# Traditional Formulation
-## Question
-What does the preface to the Ten Commandments teach us?
+---
+## Traditional Formulation
+<strong>
+    Question: What does the preface to the Ten Commandments teach us?
+</strong>
 
-## Answer
-The preface to the Ten Commandments teaches us, that because God is the Lord, and our God and Redeemer, therefore we are bound to keep all His commandments.
+<em>
+    Answer: The preface to the Ten Commandments teaches us, that because God is the Lord, and our God and Redeemer, therefore we are bound to keep all His commandments.
+</em>
 
+---
 ## Adaptation Commentary

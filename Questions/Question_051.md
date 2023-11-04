@@ -3,29 +3,37 @@ title: "Question 51"
 question: 51
 completed: false
 layout: question
-permalink: "/question/51"
-next: "/question/52"
-previous: "/question/50"
+permalink: "/questions/51"
+next: "/questions/52"
+previous: "/questions/50"
 tags:
   - question/51
 ---
 # Question 51
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Exodus 20:3 (ESV)
+### Exodus 20:3 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+20%3A3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>3</sup>“You shall have no other gods before me.
 
-# Traditional Formulation
-## Question
-Which is the first commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: Which is the first commandment?
+</strong>
 
-## Answer
-The first commandment is, "Thou shalt have no other Gods before me."
+<em>
+    Answer: The first commandment is, "Thou shalt have no other Gods before me."
+</em>
 
+---
 ## Adaptation Commentary

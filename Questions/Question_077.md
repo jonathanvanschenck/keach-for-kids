@@ -3,41 +3,49 @@ title: "Question 77"
 question: 77
 completed: false
 layout: question
-permalink: "/question/77"
-next: "/question/78"
-previous: "/question/76"
+permalink: "/questions/77"
+next: "/questions/78"
+previous: "/questions/76"
 tags:
   - question/77
 ---
 # Question 77
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### 1 Corinthians 6:18 (ESV)
+### 1 Corinthians 6:18 (ESV) <a href="https://biblegateway.com/passage/?search=1+Corinthians+6%3A18&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>18</sup>Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body.
 
-### 1 Corinthians 7:2 (ESV)
+### 1 Corinthians 7:2 (ESV) <a href="https://biblegateway.com/passage/?search=1+Corinthians+7%3A2&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>2</sup>But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband.
 
-### 2 Timothy 2:22 (ESV)
+### 2 Timothy 2:22 (ESV) <a href="https://biblegateway.com/passage/?search=2+Timothy+2%3A22&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>22</sup>So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart.
 
-### Matthew 5:28 (ESV)
+### Matthew 5:28 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+5%3A28&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>28</sup>But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart.
 
-### 1 Peter 3:2 (ESV)
+### 1 Peter 3:2 (ESV) <a href="https://biblegateway.com/passage/?search=1+Peter+3%3A2&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>2</sup>when they see your respectful and pure conduct.
 
-# Traditional Formulation
-## Question
-What is required in the seventh commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: What is required in the seventh commandment?
+</strong>
 
-## Answer
-The seventh commandment requires the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.
+<em>
+    Answer: The seventh commandment requires the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.
+</em>
 
+---
 ## Adaptation Commentary

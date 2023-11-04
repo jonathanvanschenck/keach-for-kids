@@ -3,34 +3,38 @@ title: "Question 83"
 question: 83
 completed: false
 layout: question
-permalink: "/question/83"
-next: "/question/84"
-previous: "/question/82"
+permalink: "/questions/83"
+next: "/questions/84"
+previous: "/questions/82"
 tags:
   - question/83
 ---
 # Question 83
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Zechariah 8:16 (ESV)
+### Zechariah 8:16 (ESV) <a href="https://biblegateway.com/passage/?search=Zechariah+8%3A16&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>16</sup>These are the things that you shall do: Speak the truth to one another; render in your gates judgments that are true and make for peace;
 
-### Acts 25:10 (ESV)
+### Acts 25:10 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+25%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>But Paul said, “I am standing before Caesar's tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourself know very well.
 
-### Ecclesiastes 7:1 (ESV)
+### Ecclesiastes 7:1 (ESV) <a href="https://biblegateway.com/passage/?search=Ecclesiastes+7%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>A good name is better than precious ointment, and the day of death than the day of birth.
 
-### 3 John 12 (ESV)
+### 3 John 12 (ESV) <a href="https://biblegateway.com/passage/?search=3+John+12%3ANone-None&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>12</sup>Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true.
 
-### Proverbs 14:5-25 (ESV)
+### Proverbs 14:5-25 (ESV) <a href="https://biblegateway.com/passage/?search=Proverbs+14%3A5-25&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>5</sup>A faithful witness does not lie, but a false witness breathes out lies.
 > <sup>6</sup>A scoffer seeks wisdom in vain, but knowledge is easy for a man of understanding.
 > <sup>7</sup>Leave the presence of a fool, for there you do not meet words of knowledge.
@@ -53,11 +57,15 @@ tags:
 > <sup>24</sup>The crown of the wise is their wealth, but the folly of fools brings folly.
 > <sup>25</sup>A truthful witness saves lives, but one who breathes out lies is deceitful.
 
-# Traditional Formulation
-## Question
-What is required in the ninth commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: What is required in the ninth commandment?
+</strong>
 
-## Answer
-The ninth commandment requires the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.
+<em>
+    Answer: The ninth commandment requires the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.
+</em>
 
+---
 ## Adaptation Commentary

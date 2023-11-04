@@ -3,32 +3,40 @@ title: "Question 63"
 question: 63
 completed: false
 layout: question
-permalink: "/question/63"
-next: "/question/64"
-previous: "/question/62"
+permalink: "/questions/63"
+next: "/questions/64"
+previous: "/questions/62"
 tags:
   - question/63
 ---
 # Question 63
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Exodus 20:8-11 (ESV)
+### Exodus 20:8-11 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+20%3A8-11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>8</sup>“Remember the Sabbath day, to keep it holy.
 > <sup>9</sup>Six days you shall labor, and do all your work,
 > <sup>10</sup>but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates.
 > <sup>11</sup>For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.
 
-# Traditional Formulation
-## Question
-Which is the fourth commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: Which is the fourth commandment?
+</strong>
 
-## Answer
-The fourth commandment is, "Remember the Sabbath day to keep it holy. Six days shalt thou labor and do all thy work; but the seventh day is the Sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maid servant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the Sabbath day and hallowed it."
+<em>
+    Answer: The fourth commandment is, "Remember the Sabbath day to keep it holy. Six days shalt thou labor and do all thy work; but the seventh day is the Sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maid servant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the Sabbath day and hallowed it."
+</em>
 
+---
 ## Adaptation Commentary

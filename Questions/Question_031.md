@@ -3,51 +3,59 @@ title: "Question 31"
 question: 31
 completed: false
 layout: question
-permalink: "/question/31"
-next: "/question/32"
-previous: "/question/30"
+permalink: "/questions/31"
+next: "/questions/32"
+previous: "/questions/30"
 tags:
   - question/31
 ---
 # Question 31
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Luke 2:7 (ESV)
+### Luke 2:7 (ESV) <a href="https://biblegateway.com/passage/?search=Luke+2%3A7&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>7</sup>And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.
 
-### Galatians 4:4 (ESV)
+### Galatians 4:4 (ESV) <a href="https://biblegateway.com/passage/?search=Galatians+4%3A4&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>4</sup>But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,
 
-### Isaiah 53:3 (ESV)
+### Isaiah 53:3 (ESV) <a href="https://biblegateway.com/passage/?search=Isaiah+53%3A3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>3</sup>He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not.
 
-### Luke 22:44 (ESV)
+### Luke 22:44 (ESV) <a href="https://biblegateway.com/passage/?search=Luke+22%3A44&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>44</sup>And being in agony he prayed more earnestly; and his sweat became like great drops of blood falling down to the ground.
 
-### Matthew 27:46 (ESV)
+### Matthew 27:46 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+27%3A46&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>46</sup>And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
 
-### Philippians 2:8 (ESV)
+### Philippians 2:8 (ESV) <a href="https://biblegateway.com/passage/?search=Philippians+2%3A8&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>8</sup>And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.
 
-### Matthew 12:40 (ESV)
+### Matthew 12:40 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+12%3A40&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>40</sup>For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.
 
-### Mark 15:45-46 (ESV)
+### Mark 15:45-46 (ESV) <a href="https://biblegateway.com/passage/?search=Mark+15%3A45-46&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>45</sup>And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
 > <sup>46</sup>And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. And he rolled a stone against the entrance of the tomb.
 
-# Traditional Formulation
-## Question
-Wherein did Christ's humiliation consist?
+---
+## Traditional Formulation
+<strong>
+    Question: Wherein did Christ's humiliation consist?
+</strong>
 
-## Answer
-Christ's humiliation consisted in His being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross, in being buried, and continuing under the power of death for a time.
+<em>
+    Answer: Christ's humiliation consisted in His being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross, in being buried, and continuing under the power of death for a time.
+</em>
 
+---
 ## Adaptation Commentary

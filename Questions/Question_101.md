@@ -3,31 +3,35 @@ title: "Question 101"
 question: 101
 completed: false
 layout: question
-permalink: "/question/101"
-next: "/question/102"
-previous: "/question/100"
+permalink: "/questions/101"
+next: "/questions/102"
+previous: "/questions/100"
 tags:
   - question/101
 ---
 # Question 101
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Acts 2:38 (ESV)
+### Acts 2:38 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+2%3A38&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>38</sup>And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.
 
-### Matthew 3:6 (ESV)
+### Matthew 3:6 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+3%3A6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>6</sup>and they were baptized by him in the river Jordan, confessing their sins.
 
-### Mark 16:16 (ESV)
+### Mark 16:16 (ESV) <a href="https://biblegateway.com/passage/?search=Mark+16%3A16&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>16</sup>Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
 
-### Acts 8:12-36 (ESV)
+### Acts 8:12-36 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+8%3A12-36&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>12</sup>But when they believed Philip as he preached good news about the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.
 > <sup>13</sup>Even Simon himself believed, and after being baptized he continued with Philip. And seeing signs and great miracles performed, he was amazed.
 > <sup>14</sup>Now when the apostles at Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John,
@@ -54,15 +58,19 @@ tags:
 > <sup>35</sup>Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus.
 > <sup>36</sup>And as they were going along the road they came to some water, and the eunuch said, “See, here is water! What prevents me from being baptized?”
 
-### Acts 10:47-48 (ESV)
+### Acts 10:47-48 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+10%3A47-48&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>47</sup>“Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?”
 > <sup>48</sup>And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
 
-# Traditional Formulation
-## Question
-To whom is Baptism to be administered?
+---
+## Traditional Formulation
+<strong>
+    Question: To whom is Baptism to be administered?
+</strong>
 
-## Answer
-Baptism is to be administered to all those who actually profess repentance towards God, faith in, and obedience to our Lord Jesus Christ; and to none other.
+<em>
+    Answer: Baptism is to be administered to all those who actually profess repentance towards God, faith in, and obedience to our Lord Jesus Christ; and to none other.
+</em>
 
+---
 ## Adaptation Commentary

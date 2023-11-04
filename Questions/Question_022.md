@@ -3,44 +3,52 @@ title: "Question 22"
 question: 22
 completed: false
 layout: question
-permalink: "/question/22"
-next: "/question/23"
-previous: "/question/21"
+permalink: "/questions/22"
+next: "/questions/23"
+previous: "/questions/21"
 tags:
   - question/22
 ---
 # Question 22
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Romans 5:19 (ESV)
+### Romans 5:19 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+5%3A19&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>19</sup>For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
 
-### Romans 3:10 (ESV)
+### Romans 3:10 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+3%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>as it is written: “None is righteous, no, not one;
 
-### Ephesians 2:1 (ESV)
+### Ephesians 2:1 (ESV) <a href="https://biblegateway.com/passage/?search=Ephesians+2%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>And you were dead in the trespasses and sins
 
-### Isaiah 53:6 (ESV)
+### Isaiah 53:6 (ESV) <a href="https://biblegateway.com/passage/?search=Isaiah+53%3A6&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>6</sup>All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all.
 
-### Psalm 51:5 (ESV)
+### Psalm 51:5 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+51%3A5&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>5</sup>Behold, I was brought forth in iniquity, and in sin did my mother conceive me.
 
-### Matthew 15:19 (ESV)
+### Matthew 15:19 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+15%3A19&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>19</sup>For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander.
 
-# Traditional Formulation
-## Question
-Wherein consists the sinfulness of that estate whereunto man fell?
+---
+## Traditional Formulation
+<strong>
+    Question: Wherein consists the sinfulness of that estate whereunto man fell?
+</strong>
 
-## Answer
-The sinfulness of that estate whereunto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin, together with all actual transgressions which proceed from it.
+<em>
+    Answer: The sinfulness of that estate whereunto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin, together with all actual transgressions which proceed from it.
+</em>
 
+---
 ## Adaptation Commentary

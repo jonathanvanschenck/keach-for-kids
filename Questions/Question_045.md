@@ -3,40 +3,48 @@ title: "Question 45"
 question: 45
 completed: false
 layout: question
-permalink: "/question/45"
-next: "/question/46"
-previous: "/question/44"
+permalink: "/questions/45"
+next: "/questions/46"
+previous: "/questions/44"
 tags:
   - question/45
 ---
 # Question 45
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Micah 6:8 (ESV)
+### Micah 6:8 (ESV) <a href="https://biblegateway.com/passage/?search=Micah+6%3A8&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>8</sup>He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?
 
-### Ecclesiastes 12:13 (ESV)
+### Ecclesiastes 12:13 (ESV) <a href="https://biblegateway.com/passage/?search=Ecclesiastes+12%3A13&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>13</sup>The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.
 
-### Psalm 119:4 (ESV)
+### Psalm 119:4 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+119%3A4&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>4</sup>You have commanded your precepts to be kept diligently.
 
-### Luke 10:26-28 (ESV)
+### Luke 10:26-28 (ESV) <a href="https://biblegateway.com/passage/?search=Luke+10%3A26-28&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>26</sup>He said to him, “What is written in the Law? How do you read it?”
 > <sup>27</sup>And he answered, “You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.”
 > <sup>28</sup>And he said to him, “You have answered correctly; do this, and you will live.”
 
-# Traditional Formulation
-## Question
-What is the duty which God requires of man?
+---
+## Traditional Formulation
+<strong>
+    Question: What is the duty which God requires of man?
+</strong>
 
-## Answer
-The duty which God requires of man, is obedience to His revealed will.
+<em>
+    Answer: The duty which God requires of man, is obedience to His revealed will.
+</em>
 
+---
 ## Adaptation Commentary

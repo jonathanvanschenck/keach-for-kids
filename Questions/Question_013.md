@@ -3,38 +3,46 @@ title: "Question 13"
 question: 13
 completed: false
 layout: question
-permalink: "/question/13"
-next: "/question/14"
-previous: "/question/12"
+permalink: "/questions/13"
+next: "/questions/14"
+previous: "/questions/12"
 tags:
   - question/13
 ---
 # Question 13
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Genesis 1:1 (ESV)
+### Genesis 1:1 (ESV) <a href="https://biblegateway.com/passage/?search=Genesis+1%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>In the beginning, God created the heavens and the earth.
 
-### Hebrews 11:3 (ESV)
+### Hebrews 11:3 (ESV) <a href="https://biblegateway.com/passage/?search=Hebrews+11%3A3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>3</sup>By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible.
 
-### Exodus 20:11 (ESV)
+### Exodus 20:11 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+20%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy.
 
-### Genesis 1:31 (ESV)
+### Genesis 1:31 (ESV) <a href="https://biblegateway.com/passage/?search=Genesis+1%3A31&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>31</sup>And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
 
-# Traditional Formulation
-## Question
-What is the work of creation?
+---
+## Traditional Formulation
+<strong>
+    Question: What is the work of creation?
+</strong>
 
-## Answer
-The work of creation is God's making all things of nothing, by the Word of His power, in the space of six days, and all very good.
+<em>
+    Answer: The work of creation is God's making all things of nothing, by the Word of His power, in the space of six days, and all very good.
+</em>
 
+---
 ## Adaptation Commentary
