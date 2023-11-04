@@ -17,38 +17,55 @@ for q in Q:
     ranges = [ bsw.query(r.to_string(), "ESV", True) for r in refs ]
 
     out = ""
-    out = out + "---\n".format(**q)
+    out = out + "---\n"
     out = out + "title: \"Question {number}\"\n".format(**q)
     out = out + "question: {number}\n".format(**q)
-    out = out + "completed: false\n".format(**q)
-    out = out + "layout: question\n".format(**q)
-    out = out + "permalink: \"/question/{}\"\n".format(q["number"])
+    out = out + "completed: false\n"
+    out = out + "layout: question\n"
+    out = out + "permalink: \"/questions/{}\"\n".format(q["number"])
     if q["number"] < len(Q):
-        out = out + "next: \"/question/{}\"\n".format(q["number"]+1)
+        out = out + "next: \"/questions/{}\"\n".format(q["number"]+1)
     if q["number"] > 1:
-        out = out + "previous: \"/question/{}\"\n".format(q["number"]-1)
-    out = out + "tags:\n".format(**q)
+        out = out + "previous: \"/questions/{}\"\n".format(q["number"]-1)
+    out = out + "tags:\n"
     out = out + "  - question/{number}\n".format(**q)
-    out = out + "---\n".format(**q)
-    out = out + "# Question {number}\n\n".format(**q)
-    out = out + "## Question\n".format(**q)
-    out = out + "\n\n".format(**q)
-    out = out + "## Answer\n".format(**q)
-    out = out + "\n\n".format(**q)
-    out = out + "## Scriptural References\n".format(**q)
+    out = out + "---\n"
+    out = out + "# Question {number}\n".format(**q)
+    out = out + "---\n"
+    out = out + "## Modern Adaptation\n"
+    out = out + "<strong>\n"
+    out = out + "    Question:\n"
+    out = out + "</strong>\n"
+    out = out + "\n"
+    out = out + "<em>\n"
+    out = out + "    Answer:\n"
+    out = out + "</em>\n"
+    out = out + "\n"
+    out = out + "---\n"
+    out = out + "## Scriptural References\n"
     for ref,ran in zip(refs, ranges):
-        out = out + "### {} ({})\n".format(ref.to_string(), ran[0].version)
+        out = out + "### {} ({}) <a href=\"{}\"><img src=\"/assets/svg/link.svg\"/></a>\n".format(
+            ref.to_string(),
+            ran[0].version,
+            "https://biblegateway.com/passage/?search={}+{}%3A{}&version=ESV".format(ref.book.replace(" ","+"), ref.start.chapter, ref.start.verse) if ref.is_single_verse else \
+            "https://biblegateway.com/passage/?search={}+{}%3A{}-{}&version=ESV".format(ref.book.replace(" ","+"), ref.start.chapter, ref.start.verse, ref.end.verse)
+        )
         for v in ran:
             out = out + "> <sup>{}</sup>{}\n".format(v.verse, v.text)
         out = out + "\n"
 
-    out = out + "# Traditional Formulation\n".format(**q)
-    out = out + "## Question\n".format(**q)
-    out = out + "{Q}\n\n".format(**q)
-    out = out + "## Answer\n".format(**q)
-    out = out + "{A}\n\n".format(**q)
-
-    out = out + "## Adaptation Commentary\n".format(**q)
+    out = out + "---\n"
+    out = out + "## Traditional Formulation\n"
+    out = out + "<strong>\n"
+    out = out + "    Question: {Q}\n".format(**q)
+    out = out + "</strong>\n"
+    out = out + "\n"
+    out = out + "<em>\n"
+    out = out + "    Answer: {A}\n".format(**q)
+    out = out + "</em>\n"
+    out = out + "\n"
+    out = out + "---\n"
+    out = out + "## Adaptation Commentary\n"
 
 
 

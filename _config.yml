@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keach for Kids
+title: Keach Your Kids
 description: >- # this means to ignore newlines until "baseurl:"
   An adaptation of Keach's Catechism in modern English for young children.
 baseurl: "" # the subpath of your site, e.g. /blog

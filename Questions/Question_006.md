@@ -3,40 +3,48 @@ title: "Question 6"
 question: 6
 completed: false
 layout: question
-permalink: "/question/6"
-next: "/question/7"
-previous: "/question/5"
+permalink: "/questions/6"
+next: "/questions/7"
+previous: "/questions/5"
 tags:
   - question/6
 ---
 # Question 6
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### John 5:39 (ESV)
+### John 5:39 (ESV) <a href="https://biblegateway.com/passage/?search=John+5%3A39&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>39</sup>You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me,
 
-### Luke 16:29 (ESV)
+### Luke 16:29 (ESV) <a href="https://biblegateway.com/passage/?search=Luke+16%3A29&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>29</sup>But Abraham said, ‘They have Moses and the Prophets; let them hear them.’
 
-### Acts 8:28-30 (ESV)
+### Acts 8:28-30 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+8%3A28-30&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>28</sup>and was returning, seated in his chariot, and he was reading the prophet Isaiah.
 > <sup>29</sup>And the Spirit said to Philip, “Go over and join this chariot.”
 > <sup>30</sup>So Philip ran to him and heard him reading Isaiah the prophet and asked, “Do you understand what you are reading?”
 
-### Acts 17:11 (ESV)
+### Acts 17:11 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+17%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
 
-# Traditional Formulation
-## Question
-May all men make use of the Scriptures?
+---
+## Traditional Formulation
+<strong>
+    Question: May all men make use of the Scriptures?
+</strong>
 
-## Answer
-All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.
+<em>
+    Answer: All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.
+</em>
 
+---
 ## Adaptation Commentary

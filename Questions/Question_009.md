@@ -3,32 +3,40 @@ title: "Question 9"
 question: 9
 completed: false
 layout: question
-permalink: "/question/9"
-next: "/question/10"
-previous: "/question/8"
+permalink: "/questions/9"
+next: "/questions/10"
+previous: "/questions/8"
 tags:
   - question/9
 ---
 # Question 9
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Deuteronomy 6:4 (ESV)
+### Deuteronomy 6:4 (ESV) <a href="https://biblegateway.com/passage/?search=Deuteronomy+6%3A4&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>4</sup>“Hear, O Israel: The LORD our God, the LORD is one.
 
-### Jeremiah 10:10 (ESV)
+### Jeremiah 10:10 (ESV) <a href="https://biblegateway.com/passage/?search=Jeremiah+10%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>But the LORD is the true God; he is the living God and the everlasting King. At his wrath the earth quakes, and the nations cannot endure his indignation.
 
-# Traditional Formulation
-## Question
-Are there more gods than one?
+---
+## Traditional Formulation
+<strong>
+    Question: Are there more gods than one?
+</strong>
 
-## Answer
-There is but one only, the living and true God.
+<em>
+    Answer: There is but one only, the living and true God.
+</em>
 
+---
 ## Adaptation Commentary

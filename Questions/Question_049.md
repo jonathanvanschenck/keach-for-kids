@@ -3,29 +3,37 @@ title: "Question 49"
 question: 49
 completed: false
 layout: question
-permalink: "/question/49"
-next: "/question/50"
-previous: "/question/48"
+permalink: "/questions/49"
+next: "/questions/50"
+previous: "/questions/48"
 tags:
   - question/49
 ---
 # Question 49
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Exodus 20:2 (ESV)
+### Exodus 20:2 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+20%3A2&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>2</sup>“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
 
-# Traditional Formulation
-## Question
-What is the preface to the Ten Commandments?
+---
+## Traditional Formulation
+<strong>
+    Question: What is the preface to the Ten Commandments?
+</strong>
 
-## Answer
-The preface to the Ten Commandments is, "I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+<em>
+    Answer: The preface to the Ten Commandments is, "I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+</em>
 
+---
 ## Adaptation Commentary

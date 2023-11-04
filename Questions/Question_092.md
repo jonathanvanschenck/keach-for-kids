@@ -3,36 +3,44 @@ title: "Question 92"
 question: 92
 completed: false
 layout: question
-permalink: "/question/92"
-next: "/question/93"
-previous: "/question/91"
+permalink: "/questions/92"
+next: "/questions/93"
+previous: "/questions/91"
 tags:
   - question/92
 ---
 # Question 92
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Acts 20:21 (ESV)
+### Acts 20:21 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+20%3A21&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>21</sup>testifying both to Jews and to Greeks of repentance toward God and of faith in our Lord Jesus Christ.
 
-### Acts 16:30-31 (ESV)
+### Acts 16:30-31 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+16%3A30-31&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>30</sup>Then he brought them out and said, “Sirs, what must I do to be saved?”
 > <sup>31</sup>And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.”
 
-### Acts 17:30 (ESV)
+### Acts 17:30 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+17%3A30&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>30</sup>The times of ignorance God overlooked, but now he commands all people everywhere to repent,
 
-# Traditional Formulation
-## Question
-What does God require of us, that we may escape His wrath and curse, due to us for sin?
+---
+## Traditional Formulation
+<strong>
+    Question: What does God require of us, that we may escape His wrath and curse, due to us for sin?
+</strong>
 
-## Answer
-To escape the wrath and curse of God due to us for sin, God requires of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward and ordinary means whereby Christ communicates to us the benefits of redemption.
+<em>
+    Answer: To escape the wrath and curse of God due to us for sin, God requires of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward and ordinary means whereby Christ communicates to us the benefits of redemption.
+</em>
 
+---
 ## Adaptation Commentary

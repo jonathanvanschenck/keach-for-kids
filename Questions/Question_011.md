@@ -3,35 +3,43 @@ title: "Question 11"
 question: 11
 completed: false
 layout: question
-permalink: "/question/11"
-next: "/question/12"
-previous: "/question/10"
+permalink: "/questions/11"
+next: "/questions/12"
+previous: "/questions/10"
 tags:
   - question/11
 ---
 # Question 11
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Ephesians 1:11 (ESV)
+### Ephesians 1:11 (ESV) <a href="https://biblegateway.com/passage/?search=Ephesians+1%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,
 
-### Romans 11:36 (ESV)
+### Romans 11:36 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+11%3A36&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>36</sup>For from him and through him and to him are all things. To him be glory forever. Amen.
 
-### Daniel 4:35 (ESV)
+### Daniel 4:35 (ESV) <a href="https://biblegateway.com/passage/?search=Daniel+4%3A35&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>35</sup>all the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth; and none can stay his hand or say to him, “What have you done?”
 
-# Traditional Formulation
-## Question
-What are the decrees of God?
+---
+## Traditional Formulation
+<strong>
+    Question: What are the decrees of God?
+</strong>
 
-## Answer
-The decrees of God are His eternal purpose, according to the counsel of His will, whereby for His own glory, He has fore-ordained whatsoever comes to pass
+<em>
+    Answer: The decrees of God are His eternal purpose, according to the counsel of His will, whereby for His own glory, He has fore-ordained whatsoever comes to pass
+</em>
 
+---
 ## Adaptation Commentary

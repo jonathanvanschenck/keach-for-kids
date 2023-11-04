@@ -3,41 +3,49 @@ title: "Question 52"
 question: 52
 completed: false
 layout: question
-permalink: "/question/52"
-next: "/question/53"
-previous: "/question/51"
+permalink: "/questions/52"
+next: "/questions/53"
+previous: "/questions/51"
 tags:
   - question/52
 ---
 # Question 52
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Joshua 24:15 (ESV)
+### Joshua 24:15 (ESV) <a href="https://biblegateway.com/passage/?search=Joshua+24%3A15&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>15</sup>And if it is evil in your eyes to serve the LORD, choose this day whom you will serve, whether the gods your fathers served in the region beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the LORD.”
 
-### 1 Chronicles 28:9 (ESV)
+### 1 Chronicles 28:9 (ESV) <a href="https://biblegateway.com/passage/?search=1+Chronicles+28%3A9&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>9</sup>“And you, Solomon my son, know the God of your father and serve him with a whole heart and with a willing mind, for the LORD searches all hearts and understands every plan and thought. If you seek him, he will be found by you, but if you forsake him, he will cast you off forever.
 
-### Deuteronomy 26:17 (ESV)
+### Deuteronomy 26:17 (ESV) <a href="https://biblegateway.com/passage/?search=Deuteronomy+26%3A17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>17</sup>You have declared today that the LORD is your God, and that you will walk in his ways, and keep his statutes and his commandments and his rules, and will obey his voice.
 
-### Psalm 29:2 (ESV)
+### Psalm 29:2 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+29%3A2&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>2</sup>Ascribe to the LORD the glory due his name; worship the LORD in the splendor of holiness.
 
-### Matthew 4:10 (ESV)
+### Matthew 4:10 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+4%3A10&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>10</sup>Then Jesus said to him, “Be gone, Satan! For it is written, “‘You shall worship the Lord your God and him only shall you serve.’”
 
-# Traditional Formulation
-## Question
-What is required in the first commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: What is required in the first commandment?
+</strong>
 
-## Answer
-The first commandment requires us to know and acknowledge God to be the only true God, and our God, and to worship and glorify Him accordingly.
+<em>
+    Answer: The first commandment requires us to know and acknowledge God to be the only true God, and our God, and to worship and glorify Him accordingly.
+</em>
 
+---
 ## Adaptation Commentary

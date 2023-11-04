@@ -3,32 +3,40 @@ title: "Question 34"
 question: 34
 completed: false
 layout: question
-permalink: "/question/34"
-next: "/question/35"
-previous: "/question/33"
+permalink: "/questions/34"
+next: "/questions/35"
+previous: "/questions/33"
 tags:
   - question/34
 ---
 # Question 34
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Ephesians 2:8 (ESV)
+### Ephesians 2:8 (ESV) <a href="https://biblegateway.com/passage/?search=Ephesians+2%3A8&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>8</sup>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God,
 
-### Ephesians 3:17 (ESV)
+### Ephesians 3:17 (ESV) <a href="https://biblegateway.com/passage/?search=Ephesians+3%3A17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>17</sup>so that Christ may dwell in your hearts through faith—that you, being rooted and grounded in love,
 
-# Traditional Formulation
-## Question
-How does the Spirit apply to us the redemption purchased by Christ?
+---
+## Traditional Formulation
+<strong>
+    Question: How does the Spirit apply to us the redemption purchased by Christ?
+</strong>
 
-## Answer
-The Spirit applies to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.
+<em>
+    Answer: The Spirit applies to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.
+</em>
 
+---
 ## Adaptation Commentary

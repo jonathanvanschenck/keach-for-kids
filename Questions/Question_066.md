@@ -3,40 +3,48 @@ title: "Question 66"
 question: 66
 completed: false
 layout: question
-permalink: "/question/66"
-next: "/question/67"
-previous: "/question/65"
+permalink: "/questions/66"
+next: "/questions/67"
+previous: "/questions/65"
 tags:
   - question/66
 ---
 # Question 66
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Leviticus 23:3 (ESV)
+### Leviticus 23:3 (ESV) <a href="https://biblegateway.com/passage/?search=Leviticus+23%3A3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>3</sup>“Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the LORD in all your dwelling places.
 
-### Isaiah 58:13-14 (ESV)
+### Isaiah 58:13-14 (ESV) <a href="https://biblegateway.com/passage/?search=Isaiah+58%3A13-14&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>13</sup>“If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and call the Sabbath a delight and the holy day of the LORD honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly;
 > <sup>14</sup>then you shall take delight in the LORD, and I will make you ride on the heights of the earth; I will feed you with the heritage of Jacob your father, for the mouth of the LORD has spoken.”
 
-### Isaiah 66:23 (ESV)
+### Isaiah 66:23 (ESV) <a href="https://biblegateway.com/passage/?search=Isaiah+66%3A23&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>23</sup>From new moon to new moon, and from Sabbath to Sabbath, all flesh shall come to worship before me, declares the LORD.
 
-### Matthew 12:11-12 (ESV)
+### Matthew 12:11-12 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+12%3A11-12&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>He said to them, “Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?
 > <sup>12</sup>Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath.”
 
-# Traditional Formulation
-## Question
-How is the Sabbath to be sanctified?
+---
+## Traditional Formulation
+<strong>
+    Question: How is the Sabbath to be sanctified?
+</strong>
 
-## Answer
-The Sabbath is to sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days, and spending the time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.
+<em>
+    Answer: The Sabbath is to sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days, and spending the time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.
+</em>
 
+---
 ## Adaptation Commentary

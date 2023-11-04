@@ -3,35 +3,43 @@ title: "Question 58"
 question: 58
 completed: false
 layout: question
-permalink: "/question/58"
-next: "/question/59"
-previous: "/question/57"
+permalink: "/questions/58"
+next: "/questions/59"
+previous: "/questions/57"
 tags:
   - question/58
 ---
 # Question 58
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Psalm 45:11 (ESV)
+### Psalm 45:11 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+45%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>and the king will desire your beauty. Since he is your lord, bow to him.
 
-### Exodus 34:14 (ESV)
+### Exodus 34:14 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+34%3A14&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>14</sup>(for you shall worship no other god, for the LORD, whose name is Jealous, is a jealous God),
 
-### 1 Corinthians 10:22 (ESV)
+### 1 Corinthians 10:22 (ESV) <a href="https://biblegateway.com/passage/?search=1+Corinthians+10%3A22&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>22</sup>Shall we provoke the Lord to jealousy? Are we stronger than he?
 
-# Traditional Formulation
-## Question
-What are the reasons annexed to the second commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: What are the reasons annexed to the second commandment?
+</strong>
 
-## Answer
-The reasons annexed to the second commandment, are, God's sovereignty over us, His propriety in us, and the zeal He has for His own worship.
+<em>
+    Answer: The reasons annexed to the second commandment, are, God's sovereignty over us, His propriety in us, and the zeal He has for His own worship.
+</em>
 
+---
 ## Adaptation Commentary

@@ -3,43 +3,51 @@ title: "Question 67"
 question: 67
 completed: false
 layout: question
-permalink: "/question/67"
-next: "/question/68"
-previous: "/question/66"
+permalink: "/questions/67"
+next: "/questions/68"
+previous: "/questions/66"
 tags:
   - question/67
 ---
 # Question 67
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Ezekiel 22:26 (ESV)
+### Ezekiel 22:26 (ESV) <a href="https://biblegateway.com/passage/?search=Ezekiel+22%3A26&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>26</sup>Her priests have done violence to my law and have profaned my holy things. They have made no distinction between the holy and the common, neither have they taught the difference between the unclean and the clean, and they have disregarded my Sabbaths, so that I am profaned among them.
 
-### Ezekiel 23:38 (ESV)
+### Ezekiel 23:38 (ESV) <a href="https://biblegateway.com/passage/?search=Ezekiel+23%3A38&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>38</sup>Moreover, this they have done to me: they have defiled my sanctuary on the same day and profaned my Sabbaths.
 
-### Jeremiah 17:21 (ESV)
+### Jeremiah 17:21 (ESV) <a href="https://biblegateway.com/passage/?search=Jeremiah+17%3A21&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>21</sup>Thus says the LORD: Take care for the sake of your lives, and do not bear a burden on the Sabbath day or bring it in by the gates of Jerusalem.
 
-### Nehemiah 13:15-17 (ESV)
+### Nehemiah 13:15-17 (ESV) <a href="https://biblegateway.com/passage/?search=Nehemiah+13%3A15-17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>15</sup>In those days I saw in Judah people treading winepresses on the Sabbath, and bringing in heaps of grain and loading them on donkeys, and also wine, grapes, figs, and all kinds of loads, which they brought into Jerusalem on the Sabbath day. And I warned them on the day when they sold food.
 > <sup>16</sup>Tyrians also, who lived in the city, brought in fish and all kinds of goods and sold them on the Sabbath to the people of Judah, in Jerusalem itself!
 > <sup>17</sup>Then I confronted the nobles of Judah and said to them, “What is this evil thing that you are doing, profaning the Sabbath day?
 
-### Acts 20:7 (ESV)
+### Acts 20:7 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+20%3A7&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>7</sup>On the first day of the week, when we were gathered together to break bread, Paul talked with them, intending to depart on the next day, and he prolonged his speech until midnight.
 
-# Traditional Formulation
-## Question
-What is forbidden in the fourth commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: What is forbidden in the fourth commandment?
+</strong>
 
-## Answer
-The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.
+<em>
+    Answer: The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.
+</em>
 
+---
 ## Adaptation Commentary

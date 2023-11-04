@@ -28,21 +28,21 @@ const OPATH = join(__dirname, "../index.md");
     const total = f.length;
 
     const out = `---
-title: Keach for Kids
+title: Keach Your Kids
 permalink: "/"
 ---
-# Keach for Kids
+# Keach Your Kids
 An adaptation of Keach's Catechism in modern English for young children.
 
 ## Table of Contents
 
 <div>
-  <span>Adaptation Progress:</span>
+  <span style="margin-right: 1rem;">Adaptation Progress:</span>
   <progress value="${done}" max="${total}"></progress>
   <span style="margin-left: 1rem;">${(100*done/total).toFixed(1)}%</span>
 </div>
 
-| Link | Completed |
+| Link | Adapted |
 | :----: | :---------: |
 ${
     f.map(ff => {

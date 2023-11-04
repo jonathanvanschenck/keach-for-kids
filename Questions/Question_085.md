@@ -3,29 +3,37 @@ title: "Question 85"
 question: 85
 completed: false
 layout: question
-permalink: "/question/85"
-next: "/question/86"
-previous: "/question/84"
+permalink: "/questions/85"
+next: "/questions/86"
+previous: "/questions/84"
 tags:
   - question/85
 ---
 # Question 85
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Exodus 20:17 (ESV)
+### Exodus 20:17 (ESV) <a href="https://biblegateway.com/passage/?search=Exodus+20%3A17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>17</sup>“You shall not covet your neighbor's house; you shall not covet your neighbor's wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor's.”
 
-# Traditional Formulation
-## Question
-Which is the tenth commandment?
+---
+## Traditional Formulation
+<strong>
+    Question: Which is the tenth commandment?
+</strong>
 
-## Answer
-The tenth commandment is, "Thou shalt not covet thy neighbor's house. Thou shalt not covet thy neighbor's wife, nor his man servant, nor his maid servant, nor his ox, nor his ass, nor anything that is thy neighbor's."
+<em>
+    Answer: The tenth commandment is, "Thou shalt not covet thy neighbor's house. Thou shalt not covet thy neighbor's wife, nor his man servant, nor his maid servant, nor his ox, nor his ass, nor anything that is thy neighbor's."
+</em>
 
+---
 ## Adaptation Commentary

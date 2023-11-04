@@ -3,38 +3,46 @@ title: "Question 12"
 question: 12
 completed: false
 layout: question
-permalink: "/question/12"
-next: "/question/13"
-previous: "/question/11"
+permalink: "/questions/12"
+next: "/questions/13"
+previous: "/questions/11"
 tags:
   - question/12
 ---
 # Question 12
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Genesis 1:1 (ESV)
+### Genesis 1:1 (ESV) <a href="https://biblegateway.com/passage/?search=Genesis+1%3A1&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>In the beginning, God created the heavens and the earth.
 
-### Revelation 4:11 (ESV)
+### Revelation 4:11 (ESV) <a href="https://biblegateway.com/passage/?search=Revelation+4%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>“Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”
 
-### Matthew 6:26 (ESV)
+### Matthew 6:26 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+6%3A26&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>26</sup>Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?
 
-### Acts 14:17 (ESV)
+### Acts 14:17 (ESV) <a href="https://biblegateway.com/passage/?search=Acts+14%3A17&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>17</sup>Yet he did not leave himself without witness, for he did good by giving you rains from heaven and fruitful seasons, satisfying your hearts with food and gladness.”
 
-# Traditional Formulation
-## Question
-How does God execute His decrees?
+---
+## Traditional Formulation
+<strong>
+    Question: How does God execute His decrees?
+</strong>
 
-## Answer
-God executes His decrees in the works of creation and providence.
+<em>
+    Answer: God executes His decrees in the works of creation and providence.
+</em>
 
+---
 ## Adaptation Commentary

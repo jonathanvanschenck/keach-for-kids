@@ -3,40 +3,48 @@ title: "Question 112"
 question: 112
 completed: false
 layout: question
-permalink: "/question/112"
-next: "/question/113"
-previous: "/question/111"
+permalink: "/questions/112"
+next: "/questions/113"
+previous: "/questions/111"
 tags:
   - question/112
 ---
 # Question 112
+---
+## Modern Adaptation
+<strong>
+    Question:
+</strong>
 
-## Question
+<em>
+    Answer:
+</em>
 
-
-## Answer
-
-
+---
 ## Scriptural References
-### Matthew 6:9 (ESV)
+### Matthew 6:9 (ESV) <a href="https://biblegateway.com/passage/?search=Matthew+6%3A9&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>9</sup>Pray then like this: “Our Father in heaven, hallowed be your name.
 
-### Psalm 67:1-3 (ESV)
+### Psalm 67:1-3 (ESV) <a href="https://biblegateway.com/passage/?search=Psalm+67%3A1-3&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>1</sup>May God be gracious to us and bless us and make his face to shine upon us, 
 > <sup>2</sup>that your way may be known on earth, your saving power among all nations.
 > <sup>3</sup>Let the peoples praise you, O God; let all the peoples praise you!
 
-### Romans 11:36 (ESV)
+### Romans 11:36 (ESV) <a href="https://biblegateway.com/passage/?search=Romans+11%3A36&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>36</sup>For from him and through him and to him are all things. To him be glory forever. Amen.
 
-### Revelation 4:11 (ESV)
+### Revelation 4:11 (ESV) <a href="https://biblegateway.com/passage/?search=Revelation+4%3A11&version=ESV"><img src="/assets/svg/link.svg"/></a>
 > <sup>11</sup>“Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”
 
-# Traditional Formulation
-## Question
-What do we pray for in the first petition?
+---
+## Traditional Formulation
+<strong>
+    Question: What do we pray for in the first petition?
+</strong>
 
-## Answer
-In the first petition, which is "Hallowed be thy name," we pray that God would enable us and others to glorify Him in all that whereby He makes Himself known, and that He would dispose all things to His own glory.
+<em>
+    Answer: In the first petition, which is "Hallowed be thy name," we pray that God would enable us and others to glorify Him in all that whereby He makes Himself known, and that He would dispose all things to His own glory.
+</em>
 
+---
 ## Adaptation Commentary
