@@ -9,8 +9,8 @@ An adaptation of the Catechism for Young Children in modern English.
 
 <div>
   <span style="margin-right: 1rem;">Adaptation Progress:</span>
-  <progress value="15" max="144"></progress>
-  <span style="margin-left: 1rem;">10.4%</span>
+  <progress value="23" max="144"></progress>
+  <span style="margin-left: 1rem;">16.0%</span>
 </div>
 
 | Link | Adapted |
@@ -26,16 +26,16 @@ An adaptation of the Catechism for Young Children in modern English.
 | [Question 9](/cfyc/questions/9) | ✅ |
 | [Question 10](/cfyc/questions/10) | ✅ |
 | [Question 11](/cfyc/questions/11) | ✅ |
-| [Question 12](/cfyc/questions/12) | ⛔ |
-| [Question 13](/cfyc/questions/13) | ⛔ |
+| [Question 12](/cfyc/questions/12) | ✅ |
+| [Question 13](/cfyc/questions/13) | ✅ |
 | [Question 14](/cfyc/questions/14) | ⛔ |
-| [Question 15](/cfyc/questions/15) | ⛔ |
-| [Question 16](/cfyc/questions/16) | ⛔ |
-| [Question 17](/cfyc/questions/17) | ⛔ |
-| [Question 18](/cfyc/questions/18) | ⛔ |
+| [Question 15](/cfyc/questions/15) | ✅ |
+| [Question 16](/cfyc/questions/16) | ✅ |
+| [Question 17](/cfyc/questions/17) | ✅ |
+| [Question 18](/cfyc/questions/18) | ✅ |
 | [Question 19](/cfyc/questions/19) | ⛔ |
-| [Question 20](/cfyc/questions/20) | ⛔ |
-| [Question 21](/cfyc/questions/21) | ⛔ |
+| [Question 20](/cfyc/questions/20) | ✅ |
+| [Question 21](/cfyc/questions/21) | ✅ |
 | [Question 22](/cfyc/questions/22) | ⛔ |
 | [Question 23](/cfyc/questions/23) | ⛔ |
 | [Question 24](/cfyc/questions/24) | ⛔ |

@@ -28,7 +28,7 @@
 
     <div class="wrapper">
 
-      <section>
+      <section style="padding-bottom: 0; margin-bottom: 0;">
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -44,7 +44,14 @@
 
       </section>
 
+      <section style="padding-top: 0; margin-top: 0;">
+        <div id="title">
+          <hr>
+          <span class="credits left">Site Last Updated: {{ site.time | date: '%A, %B %e, %Y' }}</span>
+        </div>
+      </section>
     </div>
+
   </body>
 </html>
 
