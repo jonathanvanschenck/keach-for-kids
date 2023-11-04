@@ -1,7 +1,8 @@
 const { readFileSync, writeFileSync } = require("fs");
 
+const [ path ] = process.argv.slice(2);
 
-const string = readFileSync("./keach.txt").toString();
+const string = readFileSync(path).toString();
 
 
 const questions = [];
@@ -28,4 +29,5 @@ for ( const line of string.split("\n") ) {
     }
 }
 
-writeFileSync("./keach.json", JSON.stringify(questions,null,4));
+const out = path.replace(/.txt/,".json");
+writeFileSync(out, JSON.stringify(questions,null,4));

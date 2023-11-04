@@ -1,10 +1,10 @@
 {
-  "name": "keach-for-kids",
+  "name": "keach-your-kids",
   "version": "1.0.0",
   "description": "An adaptation of Keach's Catechism in modern English for young children.",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/render_index.js",
+    "build": "node scripts/render_toc.js keach && node scripts/render_toc.js cfyc",
     "preview": "bundle exec jekyll serve"
   },
   "author": "",
