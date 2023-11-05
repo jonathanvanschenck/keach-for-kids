@@ -9,8 +9,8 @@ An adaptation of the Catechism for Young Children in modern English.
 
 <div>
   <span style="margin-right: 1rem;">Adaptation Progress:</span>
-  <progress value="23" max="144"></progress>
-  <span style="margin-left: 1rem;">16.0%</span>
+  <progress value="39" max="144"></progress>
+  <span style="margin-left: 1rem;">27.1%</span>
 </div>
 
 | Link | Adapted |
@@ -28,28 +28,28 @@ An adaptation of the Catechism for Young Children in modern English.
 | [Question 11](/cfyc/questions/11) | ✅ |
 | [Question 12](/cfyc/questions/12) | ✅ |
 | [Question 13](/cfyc/questions/13) | ✅ |
-| [Question 14](/cfyc/questions/14) | ⛔ |
+| [Question 14](/cfyc/questions/14) | ✅ |
 | [Question 15](/cfyc/questions/15) | ✅ |
 | [Question 16](/cfyc/questions/16) | ✅ |
 | [Question 17](/cfyc/questions/17) | ✅ |
 | [Question 18](/cfyc/questions/18) | ✅ |
-| [Question 19](/cfyc/questions/19) | ⛔ |
+| [Question 19](/cfyc/questions/19) | ✅ |
 | [Question 20](/cfyc/questions/20) | ✅ |
 | [Question 21](/cfyc/questions/21) | ✅ |
-| [Question 22](/cfyc/questions/22) | ⛔ |
-| [Question 23](/cfyc/questions/23) | ⛔ |
-| [Question 24](/cfyc/questions/24) | ⛔ |
-| [Question 25](/cfyc/questions/25) | ⛔ |
-| [Question 26](/cfyc/questions/26) | ⛔ |
-| [Question 27](/cfyc/questions/27) | ⛔ |
-| [Question 28](/cfyc/questions/28) | ⛔ |
-| [Question 29](/cfyc/questions/29) | ⛔ |
-| [Question 30](/cfyc/questions/30) | ⛔ |
-| [Question 31](/cfyc/questions/31) | ⛔ |
-| [Question 32](/cfyc/questions/32) | ⛔ |
-| [Question 33](/cfyc/questions/33) | ⛔ |
-| [Question 34](/cfyc/questions/34) | ⛔ |
-| [Question 35](/cfyc/questions/35) | ⛔ |
+| [Question 22](/cfyc/questions/22) | ✅ |
+| [Question 23](/cfyc/questions/23) | ✅ |
+| [Question 24](/cfyc/questions/24) | ✅ |
+| [Question 25](/cfyc/questions/25) | ✅ |
+| [Question 26](/cfyc/questions/26) | ✅ |
+| [Question 27](/cfyc/questions/27) | ✅ |
+| [Question 28](/cfyc/questions/28) | ✅ |
+| [Question 29](/cfyc/questions/29) | ✅ |
+| [Question 30](/cfyc/questions/30) | ✅ |
+| [Question 31](/cfyc/questions/31) | ✅ |
+| [Question 32](/cfyc/questions/32) | ✅ |
+| [Question 33](/cfyc/questions/33) | ✅ |
+| [Question 34](/cfyc/questions/34) | ✅ |
+| [Question 35](/cfyc/questions/35) | ✅ |
 | [Question 36](/cfyc/questions/36) | ⛔ |
 | [Question 37](/cfyc/questions/37) | ⛔ |
 | [Question 38](/cfyc/questions/38) | ⛔ |
