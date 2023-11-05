@@ -45,3 +45,40 @@ exclude:
   - package.json
   - package-lock.json
   - README.md
+  - node_modules
+
+
+defaults:
+  -
+    scope:
+      path: "questions"
+    values:
+      layout: "question"
+  -
+    scope:
+      path: "questions/keach"
+    values:
+      catechism: "keach"
+      subtitle: "Keach's Catechism"
+      short_description: "An adaptation of Keach's Catechism in modern English."
+  -
+    scope:
+      path: "tocs/keach.md"
+    values:
+      catechism: "keach"
+      subtitle: "Keach's Catechism"
+      short_description: "An adaptation of Keach's Catechism in modern English."
+  -
+    scope:
+      path: "questions/cfyc"
+    values:
+      catechism: "cfyc"
+      subtitle: "Catechism for Young Children"
+      short_description: "An adaptation of the Catechism for Young Children in modern English."
+  -
+    scope:
+      path: "tocs/cfyc.md"
+    values:
+      catechism: "cfyc"
+      subtitle: "Catechism for Young Children"
+      short_description: "An adaptation of the Catechism for Young Children in modern English."
