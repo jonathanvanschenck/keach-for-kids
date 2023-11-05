@@ -1,9 +1,15 @@
 ---
-title: Catechism for Young Children
 permalink: "/cfyc"
 ---
 # Catechism for Young Children
-An adaptation of the Catechism for Young Children in modern English.
+A catechism adapting the Westminster Shorter Catechism written by Joseph Engles
+in 1840 (Fully titled: 'Catechism for Young Children: Being an Introduction to the Shorter
+Catechism'). This document was created for use with very young children, for whom the Shorter
+Catechism would be too opaque, simplifying many of the ideas and language. We re-adapt this
+catechism for the same purpose using modern English phrasology. Additionally, several
+questions ([126](/cfyc/questions/126), [127](cfyc/questions/127), [129](cfyc/questions/129)
+and [130](cfyc/questions/130)) are given two adaptations: one for Baptists and one for
+Presbyterians.
 
 ## Table of Contents
 

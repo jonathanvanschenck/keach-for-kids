@@ -6,6 +6,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/extra.css">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -30,8 +31,14 @@
 
       <section style="padding-bottom: 0; margin-bottom: 0;">
         <div id="title">
+          {% if page.subtitle %}
+          <h2>{{ page.subtitle }}</h2>
+          {% else %}
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          {% endif %}
+          {% if page.short_description %}
+          <p>{{ page.short_description }}</p>
+          {% endif %}
           <p>
             {% if page.previous %}
                 <a href="{{ page.previous }}">Previous</a>
@@ -55,7 +62,7 @@
       <section style="padding-top: 0; margin-top: 0;">
         <div id="title">
           <hr>
-          <span class="credits left">Site Last Updated: {{ site.time | date: '%A, %B %e, %Y' }}</span>
+          <span class="credits left">Last Updated: {{ site.time }}</span>
         </div>
       </section>
 

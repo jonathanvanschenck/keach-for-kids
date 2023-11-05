@@ -30,9 +30,7 @@ for q in Q:
     out = out + "---\n"
     out = out + "title: \"Question {number}\"\n".format(**q)
     out = out + "question: {number}\n".format(**q)
-    out = out + "catechism: {}\n".format(cat)
     out = out + "completed: false\n"
-    out = out + "layout: question\n"
     out = out + "permalink: \"/{}/questions/{}\"\n".format(cat,q["number"])
     if q["number"] < len(Q):
         out = out + "next: \"/{}/questions/{}\"\n".format(cat,q["number"]+1)

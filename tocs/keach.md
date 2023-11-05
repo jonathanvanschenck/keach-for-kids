@@ -1,9 +1,11 @@
 ---
-title: Keach's Catechism
 permalink: "/keach"
 ---
 # Keach's Catechism
-An adaptation of Keach's Catechism in modern English for children.
+A catechism based on the 1677 Baptist Confession (later the 1689 London Baptist Confession of Faith),
+written by Benjamin Keach. This documument largely mirrors the Heidelburg and Westmister catechisms, with the primary
+deviations being for Baptist particulars. This version follows the later (118 question) text and adapts the language into
+modern English. Scriptural references are rendered in the English Standard Version.
 
 ## Table of Contents
 
