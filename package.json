@@ -4,12 +4,13 @@
   "description": "An adaptation of Keach's Catechism in modern English for young children.",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/render_toc.js keach && node scripts/render_toc.js cfyc",
+    "build": "node scripts/render.js keach && node scripts/render.js cfyc",
     "preview": "bundle exec jekyll serve"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "front-matter": "^4.0.2"
+    "front-matter": "^4.0.2",
+    "yaml": "^2.3.4"
   }
 }
