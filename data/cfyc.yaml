@@ -1,0 +1,1900 @@
+questions:
+  -
+    number: 1
+    completed: true
+    trad:
+      Q: "Who made you?"
+      A: "God."
+    adapt:
+      Q: "Who made you?"
+      A: "God."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 2
+    completed: true
+    trad:
+      Q: "What else did God make?"
+      A: "God made all things."
+    adapt:
+      Q: "What else did God make?"
+      A: "God made everything."
+    notes: |-
+      Substituting "everything" for "all things", which compromises the biblical terminology
+      slightly in favor of a more common phrase
+
+    scriptures:
+  -
+    number: 3
+    completed: true
+    trad:
+      Q: "Why did God make you and all things?"
+      A: "For his own glory."
+    adapt:
+      Q: "Why did God make you and everything?"
+      A: "For his own glory."
+    notes: |-
+      [See note](/cfyc/questions/2)
+
+    scriptures:
+  -
+    number: 4
+    completed: true
+    trad:
+      Q: "How can you glorify God?"
+      A: "By loving him and doing what he commands."
+    adapt:
+      Q: "How can you glorify God?"
+      A: "By loving him and doing what he commands."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 5
+    completed: true
+    trad:
+      Q: "Why ought you to glorify God?"
+      A: "Because he made me and takes care of me."
+    adapt:
+      Q: "Why should you to glorify God?"
+      A: "Because he made me and takes care of me."
+    notes: |-
+      Substituting "should" for "ought" as the modern equivalent signaling a moral imperative.
+
+    scriptures:
+  -
+    number: 6
+    completed: true
+    trad:
+      Q: "Are there more gods than one?"
+      A: "There is only one God."
+    adapt:
+      Q: "Is there more than one god?"
+      A: "There is only one God."
+    notes: |-
+      Changing "Are there more gods than one" for "is there more than one god" for closer parity with the answer and smoother flow.
+
+    scriptures:
+  -
+    number: 7
+    completed: true
+    trad:
+      Q: "In how many persons does this one God exist?"
+      A: "In three persons."
+    adapt:
+      Q: "How many persons does this one God exist in?"
+      A: "This one God exists in three persons."
+    notes: |-
+      The preposition "in" is moved (in grammatical violation) to the end of the question
+      for clarity and the answer is expanded to supply the full phrase "This one God exists
+      in three persons".
+
+    scriptures:
+  -
+    number: 8
+    completed: true
+    trad:
+      Q: "What are they?"
+      A: "The Father, the Son, and the Holy Ghost."
+    adapt:
+      Q: "Who are they?"
+      A: "The Father, the Son, and the Holy Spirit."
+    notes: |-
+      "Who" is substituted "What" in keeping with personhood (over against being).
+
+    scriptures:
+  -
+    number: 9
+    completed: true
+    trad:
+      Q: "What is God?"
+      A: "God is a Spirit, and has not a body like men."
+    adapt:
+      Q: "What is God?"
+      A: "God is a spirit and does not have a body like men."
+    notes: |-
+      Changing "does not have" for "has not" for smoothness.
+
+    scriptures:
+  -
+    number: 10
+    completed: true
+    trad:
+      Q: "Where is God?"
+      A: "God is everywhere."
+    adapt:
+      Q: "Where is God?"
+      A: "God is everywhere."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 11
+    completed: true
+    trad:
+      Q: "Can you see God?"
+      A: "No; I cannot see God, but he always sees me."
+    adapt:
+      Q: "Can you see God?"
+      A: "No; I cannot see God, but He always sees me."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 12
+    completed: true
+    trad:
+      Q: "Does God know all things?"
+      A: "Yes; nothing can be hid from God."
+    adapt:
+      Q: "Does God know everything?"
+      A: "Yes; nothing is hidden from God."
+    notes: |-
+      Substituting "all things" for "everything", [see note on Question 2](/cfyc/questions/2).
+      Substituting "is hidden" for "can be hid" for more direct phrasing to emphasize God's knowledge rather than
+      human's inability (c.f. Hebrews 4:13 ESV/NIV).
+
+    scriptures:
+  -
+    number: 13
+    completed: true
+    trad:
+      Q: "Can God do all things?"
+      A: "Yes; God can do all his holy will."
+    adapt:
+      Q: "Can God do anything?"
+      A: "Yes; God can do anything He wills."
+    notes: |-
+      Substituting "all things" for "anything" [see note on question 2](/cfyc/questions/2).
+      Changing "all his holy will" for "anything he wills" for similar reasons.
+
+    scriptures:
+  -
+    number: 14
+    completed: true
+    trad:
+      Q: "Where do you learn how to love and obey God?"
+      A: "In the Bible alone."
+    adapt:
+      Q: "Where do you learn how to love and obey God?"
+      A: "In the Bible alone."
+    notes: |-
+      No change. The answer may be smoother as "Only in the Bible", however retention of the historically significant phrase
+      "Bible(Scripture) alone" is here preferred.
+
+    scriptures:
+  -
+    number: 15
+    completed: true
+    trad:
+      Q: "Who wrote the Bible?"
+      A: "Holy men who were taught by the Holy Spirit."
+    adapt:
+      Q: "Who wrote the Bible?"
+      A: "Holy men as they were taught by the Holy Spirit."
+    notes: |-
+      Changing "who were" to "as they were" to be closer to 2 Peter 2:21 (ESV), while still simplifying "carried along" to "taught".
+
+    scriptures:
+  -
+    number: 16
+    completed: true
+    trad:
+      Q: "Who were our first parents?"
+      A: "Adam and Eve."
+    adapt:
+      Q: "Who were our first parents?"
+      A: "Adam and Eve."
+    notes: |-
+      No change.
+
+    scriptures:
+  -
+    number: 17
+    completed: true
+    trad:
+      Q: "Of what were our first parents made?"
+      A: "God made the body of Adam out of the ground, and formed Eve from the body of Adam."
+    adapt:
+      Q: "What were our first parents made of?"
+      A: "God made the body of Adam out of dust, and formed Eve from the body of Adam."
+    notes: |-
+      Moving preposition to end of question for clarity [see note on question 7](/cfyc/questions/7).
+      "The ground" is made "dust" for specific alignment with Genesis 2:7 (ESV).
+
+    scriptures:
+  -
+    number: 18
+    completed: true
+    trad:
+      Q: "What did God give Adam and Eve besides bodies?"
+      A: "He gave them souls that could never die."
+    adapt:
+      Q: "What did God give Adam and Eve besides bodies?"
+      A: "He gave them souls that could never die."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 19
+    completed: true
+    trad:
+      Q: "Have you a soul as well as a body?"
+      A: "Yes; I have a soul that can never die."
+    adapt:
+      Q: "Do you have a soul as well as a body?"
+      A: "Yes; I have a soul that can never die."
+    notes: |-
+      Update "Have you" to "Do you have" for the expanded inversion, in keeping with modern linguistic convention.
+
+    scriptures:
+  -
+    number: 20
+    completed: true
+    trad:
+      Q: "How do you know that you have a soul?"
+      A: "Because the Bible tells me so."
+    adapt:
+      Q: "How do you know that you have a soul?"
+      A: "Because the Bible tells me so."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 21
+    completed: true
+    trad:
+      Q: "In what condition did God make Adam and Eve?"
+      A: "He made them holy and happy."
+    adapt:
+      Q: "What condition did God make Adam and Eve in?"
+      A: "He made them holy and happy."
+    notes: |-
+      Moving preposition to the end of the question [see note on question 7](/cfyc/questions/7).
+
+    scriptures:
+  -
+    number: 22
+    completed: true
+    trad:
+      Q: "What is a covenant?"
+      A: "An agreement between two or more persons."
+    adapt:
+      Q: "What is a covenant?"
+      A: "An agreement between two or more persons."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 23
+    completed: true
+    trad:
+      Q: "What covenant did God make with Adam?"
+      A: "The covenant of works."
+    adapt:
+      Q: "What covenant did God make with Adam?"
+      A: "The covenant of works."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 24
+    completed: true
+    trad:
+      Q: "What was Adam bound to do by the covenant of works?"
+      A: "To obey God perfectly."
+    adapt:
+      Q: "What did Adam need to do under the covenant of works?"
+      A: "To obey God perfectly."
+    notes: |-
+      "Was ... bound to do by" is simplified to "did ... need to do under"
+
+    scriptures:
+  -
+    number: 25
+    completed: true
+    trad:
+      Q: "What did God promise in the covenant of works?"
+      A: "To reward Adam with life if he obeyed him."
+    adapt:
+      Q: "What did God promise in the covenant of works?"
+      A: "To reward Adam with life if he obeyed God"
+    notes: |-
+      "Him" is replace with the referent "God" for clarity
+
+    scriptures:
+  -
+    number: 26
+    completed: true
+    trad:
+      Q: "What did God threaten in the covenant of works?"
+      A: "To punish Adam with death if he disobeyed."
+    adapt:
+      Q: "What did God threaten in the covenant of works?"
+      A: "To punish Adam with death if he disobeyed God."
+    notes: |-
+      The implied referent "God" for supplied for clarity
+
+    scriptures:
+  -
+    number: 27
+    completed: true
+    trad:
+      Q: "Did Adam keep the covenant of works?"
+      A: "No; he sinned against God."
+    adapt:
+      Q: "Did Adam keep the covenant of works?"
+      A: "No; he sinned against God."
+    notes: |-
+      No change.
+
+    scriptures:
+  -
+    number: 28
+    completed: true
+    trad:
+      Q: "What is Sin?"
+      A: "Sin is any want of conformity unto, or transgression of the law of God."
+    adapt:
+      Q: "What is Sin?"
+      A: "Sin is not conforming to, or transgressing God's law."
+    notes: |-
+      We retain the root terminology of "conform" and "transgress" but shorten both phrase to participial forms.
+      The terms are not simplified so as to justify keeping [question 29](/cfyc/questions/29) and [question 30](/cfyc/questions/30)
+
+    scriptures:
+  -
+    number: 29
+    completed: true
+    trad:
+      Q: "What is meant by want of conformity?"
+      A: "Not being or doing what God requires."
+    adapt:
+      Q: "What does it mean to not conform to God's law?"
+      A: "To not be or not do what God requires."
+    notes: |-
+      See note on [question 28](/cfyc/questions/28). "What does it mean to" is substituted for "What is meant by", and "God's law" is supplied at the end of the phrase for clarity.
+
+    scriptures:
+  -
+    number: 30
+    completed: true
+    trad:
+      Q: "What is meant by transgression?"
+      A: "Doing what God forbids."
+    adapt:
+      Q: "What does it mean to transgress God's law?"
+      A: "To do what God forbids."
+    notes: |-
+      See note on [question 28](/cfyc/questions/28). "What does it mean to" is substituted for "What is meant by", and "God's law" is supplied at the end of the phrase for clarity.
+
+    scriptures:
+  -
+    number: 31
+    completed: true
+    trad:
+      Q: "What was the sin of our first parents?"
+      A: "Eating the forbidden fruit."
+    adapt:
+      Q: "What was the sin of our first parents?"
+      A: "Eating the forbidden fruit."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 32
+    completed: true
+    trad:
+      Q: "Who tempted them to this sin?"
+      A: "The devil tempted Eve, and she gave the fruit to Adam."
+    adapt:
+      Q: "Who tempted them to this sin?"
+      A: "The devil tempted Eve, and she gave the fruit to Adam."
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 33
+    completed: true
+    trad:
+      Q: "What befell our first parents when they had sinned?"
+      A: "Instead of being holy and happy, they became sinful and miserable."
+    adapt:
+      Q: "What happened to our first parents because they had sinned?"
+      A: "Instead of being holy and happy, they became sinful and sad."
+    notes: |-
+      Simplifying "befell ... when" to "happened to ... because".
+      Also, simplifying "miserable" to "sad" with the added bonus of a sweet double alteration.
+
+    scriptures:
+  -
+    number: 34
+    completed: true
+    trad:
+      Q: "Did Adam act for himself alone in the covenant of works?"
+      A: "No; he represented all his posterity."
+    adapt:
+      Q: "Did Adam only represent himself in the covenant of works?"
+      A: "No; he also represented all his children."
+    notes: |-
+      Word order is changed for claritym and "act for" is changed to "represent" for better
+      symmetry with the answer.
+      Also, "Posterity" is simplified to "children" in keeping with the notion of "first parents"
+
+    scriptures:
+  -
+    number: 35
+    completed: true
+    trad:
+      Q: "What effect had the sin of Adam on all mankind?"
+      A: "All mankind are born in a state of sin and misery."
+    adapt:
+      Q: "What is the result of Adam's sin for everyone?"
+      A: "Everyone is born in a state of sin and sadness."
+    notes: |-
+      "All mankind" is changed to "everyone" and "effect had ... on" is rearranged and simplified "is the result of".
+      Additionally, "misery" is changed to "sadness" for consistancy with [question 33](/cfyc/questions/33).
+
+    scriptures:
+  -
+    number: 36
+    completed: false
+    trad:
+      Q: "What is that sinful nature which we inherit from Adam called?"
+      A: "Original sin."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 37
+    completed: false
+    trad:
+      Q: "What does every sin deserve?"
+      A: "The wrath and curse of God."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 38
+    completed: false
+    trad:
+      Q: "Can any one go to heaven with this sinful nature?"
+      A: "No; our hearts must be changed before we can be fit for heaven."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 39
+    completed: false
+    trad:
+      Q: "What is a change of heart called?"
+      A: "Regeneration."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 40
+    completed: false
+    trad:
+      Q: "Who can change a sinner’s heart?"
+      A: "The Holy Spirit alone."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 41
+    completed: false
+    trad:
+      Q: "Can any one be saved through the covenant of works?"
+      A: "None can be saved through the covenant of works."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 42
+    completed: false
+    trad:
+      Q: "Why can none be saved through the covenant of works?"
+      A: "Because all have broken it, and are condemned by it"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 43
+    completed: false
+    trad:
+      Q: "With whom did God the Father make the covenant of grace?"
+      A: "With Christ, his eternal Son."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 44
+    completed: false
+    trad:
+      Q: "Whom did Christ represent in the covenant of grace?"
+      A: "His elect people."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 45
+    completed: false
+    trad:
+      Q: "What did Christ undertake in the covenant of grace?"
+      A: "To keep the whole law for his people, and to suffer the punishment due to their sins."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 46
+    completed: false
+    trad:
+      Q: "Did our Lord Jesus Christ ever commit the least sin?"
+      A: "No; he was holy, harmless, and undefiled."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 47
+    completed: false
+    trad:
+      Q: "How could the Son of God suffer?"
+      A: "Christ, the Son of God, became man that he might obey and suffer in our nature."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 48
+    completed: false
+    trad:
+      Q: "What is meant by the Atonement?"
+      A: "Christ’s satisfying divine justice, by his sufferings and death, in the place of sinners."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 49
+    completed: false
+    trad:
+      Q: "What did God the Father undertake in the covenant of grace?"
+      A: "To justify and sanctify those for whom Christ should die."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 50
+    completed: false
+    trad:
+      Q: "What is justification?"
+      A: "It is God’s forgiving sinners, and treating them as if they had never sinned."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 51
+    completed: false
+    trad:
+      Q: "What is sanctification?"
+      A: "It is God’s making sinners holy in heart and conduct."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 52
+    completed: false
+    trad:
+      Q: "For whom did Christ obey and suffer?"
+      A: "For those whom the Father had given him."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 53
+    completed: false
+    trad:
+      Q: "What kind of life did Christ live on earth?"
+      A: "A life of poverty and suffering."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 54
+    completed: false
+    trad:
+      Q: "What kind of death did Christ die?"
+      A: "The painful and shameful death of the cross."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 55
+    completed: false
+    trad:
+      Q: "Who will be saved?"
+      A: "Only those who repent of sin, believe in Christ, and lead holy lives."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 56
+    completed: false
+    trad:
+      Q: "What is it to repent?"
+      A: "To be sorry for sin, and to hate and forsake it because it is displeasing to God."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 57
+    completed: false
+    trad:
+      Q: "What is it to believe or have faith in Christ?"
+      A: "To trust in Christ alone for salvation."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 58
+    completed: false
+    trad:
+      Q: "Can you repent and believe in Christ by your own power?"
+      A: "No; I can do nothing good without the help of God’s Holy Spirit."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 59
+    completed: false
+    trad:
+      Q: "How can you get the help of the Holy Spirit?"
+      A: "God has told us that we must pray to him for the Holy Spirit."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 60
+    completed: false
+    trad:
+      Q: "How long ago is it since Christ died?"
+      A: "More than nineteen hundred years."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 61
+    completed: false
+    trad:
+      Q: "How were pious persons saved before the coming of Christ?"
+      A: "By believing in a Savior to come."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 62
+    completed: false
+    trad:
+      Q: "How did they show their faith?"
+      A: "By offering sacrifices on God’s altar."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 63
+    completed: false
+    trad:
+      Q: "What did these sacrifices represent?"
+      A: "Christ, the Lamb of God, who was to die for sinners."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 64
+    completed: false
+    trad:
+      Q: "What offices has Christ?"
+      A: "Christ has three offices."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 65
+    completed: false
+    trad:
+      Q: "What are they?"
+      A: "The offices of a prophet, of a priest, and of a king."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 66
+    completed: false
+    trad:
+      Q: "How is Christ a prophet?"
+      A: "Because he teaches us the will of God."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 67
+    completed: false
+    trad:
+      Q: "How is Christ a priest?"
+      A: "Because he died for our sins and pleads with God for us."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 68
+    completed: false
+    trad:
+      Q: "How is Christ a king?"
+      A: "Because he rules over us and defends us."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 69
+    completed: false
+    trad:
+      Q: "Why do you need Christ as a prophet?"
+      A: "Because I am ignorant."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 70
+    completed: false
+    trad:
+      Q: "Why do you need Christ as a priest?"
+      A: "Because I am guilty."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 71
+    completed: false
+    trad:
+      Q: "Why do you need Christ as a king?"
+      A: "Because I am weak and helpless."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 72
+    completed: false
+    trad:
+      Q: "How many commandments did God give on Mount Sinai?"
+      A: "Ten commandments."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 73
+    completed: false
+    trad:
+      Q: "What are the ten commandments sometimes called?"
+      A: "The Decalogue."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 74
+    completed: false
+    trad:
+      Q: "What do the first four commandments teach?"
+      A: "Our duty to God."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 75
+    completed: false
+    trad:
+      Q: "What do the last six commandments teach?"
+      A: "Our duty to our fellow men."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 76
+    completed: false
+    trad:
+      Q: "What is the sum of the ten commandments?"
+      A: "To love God with all my heart, and my neighbor as myself."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 78
+    completed: false
+    trad:
+      Q: "Is God pleased with those who love and obey him?"
+      A: "Yes; he says, “I love them that love me.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 79
+    completed: false
+    trad:
+      Q: "Is God displeased with those who do not love and obey him?"
+      A: "Yes; “God is angry with the wicked every day.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 80
+    completed: false
+    trad:
+      Q: "What is the first commandment?"
+      A: "The first commandment is, Thou shalt have no other gods before me."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 81
+    completed: false
+    trad:
+      Q: "What does the first commandment teach us?"
+      A: "To worship God alone."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 82
+    completed: false
+    trad:
+      Q: "What is the second commandment?"
+      A: "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of any things that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; thou shalt not bow down thyself to them, nor serve them: for I, the Lord thy God, am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 83
+    completed: false
+    trad:
+      Q: "What does the second commandment teach us?"
+      A: "To worship God in a proper manner, and to avoid idolatry."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 84
+    completed: false
+    trad:
+      Q: "What is the third commandment?"
+      A: "The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 85
+    completed: false
+    trad:
+      Q: "What does the third commandment teach me?"
+      A: "To reverence God’s name, word, and works."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 86
+    completed: false
+    trad:
+      Q: "What is the fourth commandment?"
+      A: "The fourth commandment is, Remember the Sabbath day to keep it holy. Six days shalt thou labor, and do all thy work, but the seventh day is the Sabbath of the Lord thy God; in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the Lord blessed the Sabbath Day, and hallowed it."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 87
+    completed: false
+    trad:
+      Q: "What does the fourth commandment teach us?"
+      A: "To keep the Sabbath holy."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 88
+    completed: false
+    trad:
+      Q: "What day of the week is the Christian Sabbath?"
+      A: "The first day of the week, called the Lord’s day."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 89
+    completed: false
+    trad:
+      Q: "Why is it called the Lord’s day?"
+      A: "Because on that day Christ rose from the dead."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 90
+    completed: false
+    trad:
+      Q: "How should the Sabbath be spent?"
+      A: "In prayer and praise, in hearing and reading God’s Word, and in doing good to our fellow men."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 91
+    completed: false
+    trad:
+      Q: "What is the fifth commandment?"
+      A: "The fifth commandment is, Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 92
+    completed: false
+    trad:
+      Q: "What does the fifth commandment teach me?"
+      A: "To love and obey our parents and teachers."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 93
+    completed: false
+    trad:
+      Q: "What is the sixth commandment?"
+      A: "The sixth commandment is, Thou shalt not kill."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 94
+    completed: false
+    trad:
+      Q: "What does the sixth commandment teach us?"
+      A: "To avoid angry passions."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 95
+    completed: false
+    trad:
+      Q: "What is the seventh commandment?"
+      A: "The seventh commandment is, Thou shalt not commit adultery."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 96
+    completed: false
+    trad:
+      Q: "What does the seventh commandment teach us?"
+      A: "To be pure in heart, language, and conduct."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 97
+    completed: false
+    trad:
+      Q: "What is the eighth commandment?"
+      A: "The eighth commandment is, Thou shalt not steal."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 98
+    completed: false
+    trad:
+      Q: "What does the eighth commandment teach us?"
+      A: "To be honest and industrious."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 99
+    completed: false
+    trad:
+      Q: "What is the ninth commandment?"
+      A: "The ninth commandment is, Thou shalt not bear false witness against thy neighbor."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 100
+    completed: false
+    trad:
+      Q: "What does the ninth commandment teach us?"
+      A: "To tell the truth."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 101
+    completed: false
+    trad:
+      Q: "What is the tenth commandment?"
+      A: "The tenth commandment is, Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor’s."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 102
+    completed: false
+    trad:
+      Q: "What does the tenth commandment teach us?"
+      A: "To be content with our lot."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 103
+    completed: false
+    trad:
+      Q: "Can any man keep these ten commandments perfectly?"
+      A: "No mere man, since the fall of Adam, ever did or can keep the ten commandments perfectly."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 104
+    completed: false
+    trad:
+      Q: "Of what use are the ten commandments to us?"
+      A: "They teach us our duty, and show our need of a Savior."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 105
+    completed: false
+    trad:
+      Q: "What is prayer?"
+      A: "Prayer is asking God for things which he has promised to give."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 106
+    completed: false
+    trad:
+      Q: "In whose name should we pray?"
+      A: "Only in the name of Christ."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 107
+    completed: false
+    trad:
+      Q: "What has Christ given us to teach us how to pray?"
+      A: "The Lord’s Prayer."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 108
+    completed: false
+    trad:
+      Q: "Repeat the Lord’s Prayer."
+      A: "Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 109
+    completed: false
+    trad:
+      Q: "How many petitions are there in The Lord’s Prayer?"
+      A: "Six."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 110
+    completed: false
+    trad:
+      Q: "What is the first petition?"
+      A: "“Hallowed be thy name.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 111
+    completed: false
+    trad:
+      Q: "What do we pray for in the first petition?"
+      A: "That God’s name may be honored by us and all men."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 112
+    completed: false
+    trad:
+      Q: "What is the second petition?"
+      A: "“Thy kingdom come.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 113
+    completed: false
+    trad:
+      Q: "What do we pray for in the second petition?"
+      A: "That the gospel may be preached in all the world, and believed and obeyed by us and all men."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 114
+    completed: false
+    trad:
+      Q: "What is the third petition?"
+      A: "“Thy will be done in earth, as it is in heaven.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 115
+    completed: false
+    trad:
+      Q: "What do we pray for in the third petition?"
+      A: "That men on earth may serve God as the angels do in heaven."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 116
+    completed: false
+    trad:
+      Q: "What is the fourth petition?"
+      A: "“Give us this day our daily bread.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 117
+    completed: false
+    trad:
+      Q: "What do we pray for in the fourth petition?"
+      A: "That God would give us all things needful for our bodies and souls."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 118
+    completed: false
+    trad:
+      Q: "What is the fifth petition?"
+      A: "“And forgive us our debts, as we forgive our debtors.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 119
+    completed: false
+    trad:
+      Q: "What do we pray for in the fifth petition?"
+      A: "That God would pardon our sins for Christ’s sake, and enable us to forgive those who have injured us."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 120
+    completed: false
+    trad:
+      Q: "What is the sixth petition?"
+      A: "“And lead us not into temptation, but deliver us from evil.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 121
+    completed: false
+    trad:
+      Q: "What do we pray for in the sixth petition?"
+      A: "That God would keep us from sin."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 122
+    completed: false
+    trad:
+      Q: "How many sacraments are there?"
+      A: "Two."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 123
+    completed: false
+    trad:
+      Q: "What are they?"
+      A: "Baptism and the Lord’s Supper."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 124
+    completed: false
+    trad:
+      Q: "Who appointed these sacraments?"
+      A: "The Lord Jesus Christ."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 125
+    completed: false
+    trad:
+      Q: "Why did Christ appoint these sacraments?"
+      A: "To distinguish his disciples from the world, and to comfort and strengthen them."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 126
+    completed: true
+    trad:
+      Q: "What sign is used in baptism?"
+      A: "The washing with water."
+    adapt_presby:
+      Q: "What sign is used in baptism?"
+      A: "Washing with water."
+    adapt_baptist:
+      Q: "What sign is used in baptism?"
+      A: "Immersing in water."
+    notes: |-
+      Remove definite article.
+
+    scriptures:
+  -
+    number: 127
+    completed: true
+    trad:
+      Q: "What does this signify?"
+      A: "That we are cleansed from sin by the blood of Christ."
+    adapt_presby:
+      Q: "What does this signify?"
+      A: "That we are cleansed from sin by the blood of Christ."
+    adapt_baptist:
+      Q: "What does this signify?"
+      A: "Union with Christ in His death, burial and resurrection"
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 128
+    completed: false
+    trad:
+      Q: "In whose name are we baptized?"
+      A: "In the name of the Father, and of the Son, and of the Holy Ghost."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 129
+    completed: true
+    trad:
+      Q: "Who are to be baptized?"
+      A: "Believers and their children."
+    adapt_presby:
+      Q: "Who should be baptized?"
+      A: "Believers and their children."
+    adapt_baptist:
+      Q: "Who should be baptized?"
+      A: "Everyone who repents of their sin and trusts in Christ for their salvation."
+    notes: |-
+      Modify somewhat passive "are to be" for more active moral imperative "should".
+
+    scriptures:
+  -
+    number: 130
+    completed: true
+    trad:
+      Q: "Why should infants be baptized?"
+      A: "Because they have a sinful nature and need a Savior."
+    adapt_presby:
+      Q: "Should babies be baptized?"
+      A: "Yes; because they have a sinful nature and need a Savior."
+    adapt_baptist:
+      Q: "Should babies be baptized?"
+      A: "No; because they cannot repent of sin, nor trust in Christ for their salvation."
+    notes: |-
+      Soften the question from "Why should (not)" to merely "Should", so as to better function
+      as a clarification of [question 129](/cfyc/questions/129). Additionally, modify the
+      word "infant" to the more conventional "baby".
+
+    scriptures:
+  -
+    number: 131
+    completed: false
+    trad:
+      Q: "Does Christ care for little children?"
+      A: "Yes; for he says, “Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 132
+    completed: false
+    trad:
+      Q: "To what does your baptism bind you?"
+      A: "To be a true follower of Christ."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 133
+    completed: false
+    trad:
+      Q: "What is the Lord’s Supper?"
+      A: "The eating of bread and drinking of wine in remembrance of the sufferings and death of Christ."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 134
+    completed: false
+    trad:
+      Q: "What does the bread represent?"
+      A: "The body of Christ, broken for our sins."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 135
+    completed: false
+    trad:
+      Q: "What does the wine represent?"
+      A: "The blood of Christ, shed for our salvation."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 136
+    completed: false
+    trad:
+      Q: "Who should partake of the Lord’s Supper?"
+      A: "Only those who repent of their sins, believe in Christ for salvation, and love their fellow men."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 137
+    completed: false
+    trad:
+      Q: "Did Christ remain in the tomb after his crucifixion?"
+      A: "No; he rose from the tomb on the third day after his death."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 138
+    completed: false
+    trad:
+      Q: "Where is Christ now?"
+      A: "In heaven, interceding for sinners."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 139
+    completed: false
+    trad:
+      Q: "Will he come again?"
+      A: "Yes; at the last day Christ will come to judge the world."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 140
+    completed: false
+    trad:
+      Q: "What becomes of men at death?"
+      A: "The body returns to dust, and the soul goes into the world of spirits."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 141
+    completed: false
+    trad:
+      Q: "Will the bodies of the dead be raised to life again?"
+      A: "Yes; “The trumpet shall sound, and the dead shall be raised.”"
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 142
+    completed: false
+    trad:
+      Q: "What will become of the wicked in the day of judgment?"
+      A: "They shall be cast into hell."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 143
+    completed: false
+    trad:
+      Q: "What is hell?"
+      A: "A place of dreadful and endless torment."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 144
+    completed: false
+    trad:
+      Q: "What will become of the righteous?"
+      A: "They shall be taken to heaven."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:
+  -
+    number: 145
+    completed: false
+    trad:
+      Q: "What is heaven?"
+      A: "A glorious and happy place, where the righteous shall be forever with the Lord."
+    adapt:
+      Q: ""
+      A: ""
+    notes: |-
+      No Change.
+
+    scriptures:

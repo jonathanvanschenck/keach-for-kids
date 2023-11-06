@@ -42,10 +42,12 @@ plugins:
 exclude:
   - raw/
   - scripts/
+  - node_modules/
+  - data/
+  - temp/
   - package.json
   - package-lock.json
   - README.md
-  - node_modules
 
 
 defaults:
@@ -63,6 +65,14 @@ defaults:
       short_description: "An adaptation of Keach's Catechism in modern English."
   -
     scope:
+      path: "printable/keach.md"
+    values:
+      layout: "question"
+      catechism: "keach"
+      subtitle: "Keach's Catechism"
+      short_description: "An adaptation of Keach's Catechism in modern English."
+  -
+    scope:
       path: "tocs/keach.md"
     values:
       catechism: "keach"
@@ -72,6 +82,14 @@ defaults:
     scope:
       path: "questions/cfyc"
     values:
+      catechism: "cfyc"
+      subtitle: "Catechism for Young Children"
+      short_description: "An adaptation of the Catechism for Young Children in modern English."
+  -
+    scope:
+      path: "printable/cfyc.md"
+    values:
+      layout: "question"
       catechism: "cfyc"
       subtitle: "Catechism for Young Children"
       short_description: "An adaptation of the Catechism for Young Children in modern English."
