@@ -162,7 +162,7 @@ Presbyterians.
 ## <a id="q-22" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 22</a><a href="/cfyc/full#q-22"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/22" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: What is a covenant?**
 
-*Answer: An agreement between two or more persons.*
+*Answer: A promise between two or more people.*
 
 
 ---
@@ -237,7 +237,7 @@ Presbyterians.
 
 ---
 ## <a id="q-33" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 33</a><a href="/cfyc/full#q-33"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/33" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: What happened to our first parents because they had sinned?**
+**Question: What happened to our first parents because they sinned?**
 
 *Answer: Instead of being holy and happy, they became sinful and sad.*
 
@@ -257,45 +257,45 @@ Presbyterians.
 
 
 ---
-## <a id="q-36" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 36</a><a href="/cfyc/full#q-36"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/36" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-36" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 36</a><a href="/cfyc/full#q-36"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/36" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What do we call the sin we inherit from Adam?**
 
-*Answer: *
-
-
----
-## <a id="q-37" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 37</a><a href="/cfyc/full#q-37"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/37" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Original sin.*
 
 
 ---
-## <a id="q-38" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 38</a><a href="/cfyc/full#q-38"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/38" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-37" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 37</a><a href="/cfyc/full#q-37"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/37" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What do we deserve for each of our sins?**
 
-*Answer: *
-
-
----
-## <a id="q-39" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 39</a><a href="/cfyc/full#q-39"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/39" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: The wrath and curse of God.*
 
 
 ---
-## <a id="q-40" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 40</a><a href="/cfyc/full#q-40"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/40" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-38" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 38</a><a href="/cfyc/full#q-38"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/38" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Can anyone live with God while they have this sinful nature?**
 
-*Answer: *
+*Answer: No; our hearts must be changed before we can live with God.*
 
 
 ---
-## <a id="q-41" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 41</a><a href="/cfyc/full#q-41"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/41" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-39" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 39</a><a href="/cfyc/full#q-39"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/39" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What do we call this change of heart?**
 
-*Answer: *
+*Answer: Regeneration.*
+
+
+---
+## <a id="q-40" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 40</a><a href="/cfyc/full#q-40"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/40" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Who can change a sinner’s heart?**
+
+*Answer: Only the Holy Spirit.*
+
+
+---
+## <a id="q-41" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 41</a><a href="/cfyc/full#q-41"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/41" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Can anyone be saved through the covenant of works?**
+
+*Answer: No one can be saved through the covenant of works.*
 
 
 ---
