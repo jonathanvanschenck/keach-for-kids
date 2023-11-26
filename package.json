@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "node scripts/render.js keach && node scripts/render.js cfyc",
-    "preview": "bundle exec jekyll serve"
+    "preview": "bundle exec jekyll serve",
+    "git-reset": "git checkout master && git pull && git checkout dev && git rebase master && git push"
   },
   "author": "",
   "license": "ISC",

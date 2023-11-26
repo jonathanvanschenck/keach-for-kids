@@ -111,12 +111,13 @@ questions:
     completed: true
     trad:
       Q: "What is God?"
-      A: "God is a Spirit, and has not a body like men."
+      A: "God is Spirit, and has not a body like men."
     adapt:
       Q: "What is God?"
       A: "God is a spirit and does not have a body like men."
     notes: |-
-      Changing "does not have" for "has not" for smoothness.
+      Changing "does not have" for "has not" for smoothness. Additionally, the indefinite article "a" seems inappropriate in this context of
+      establishing the uniqueness of God's substance.
 
     scriptures:
   -
@@ -288,9 +289,9 @@ questions:
       A: "An agreement between two or more persons."
     adapt:
       Q: "What is a covenant?"
-      A: "An agreement between two or more persons."
+      A: "A promise between two or more people."
     notes: |-
-      No Change.
+      Simplify "agreement" to "promise" and "persons" to "people".
 
     scriptures:
   -
@@ -431,7 +432,7 @@ questions:
       Q: "What befell our first parents when they had sinned?"
       A: "Instead of being holy and happy, they became sinful and miserable."
     adapt:
-      Q: "What happened to our first parents because they had sinned?"
+      Q: "What happened to our first parents because they sinned?"
       A: "Instead of being holy and happy, they became sinful and sad."
     notes: |-
       Simplifying "befell ... when" to "happened to ... because".
@@ -464,85 +465,95 @@ questions:
       A: "Everyone is born in a state of sin and sadness."
     notes: |-
       "All mankind" is changed to "everyone" and "effect had ... on" is rearranged and simplified "is the result of".
-      Additionally, "misery" is changed to "sadness" for consistancy with [question 33](/cfyc/questions/33).
+      Additionally, "misery" is changed to "sadness" for consistency with [question 33](/cfyc/questions/33).
 
     scriptures:
   -
     number: 36
-    completed: false
+    completed: true
     trad:
       Q: "What is that sinful nature which we inherit from Adam called?"
       A: "Original sin."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What do we call the sin we inherit from Adam?"
+      A: "Original sin."
     notes: |-
-      No Change.
+      Sharpening the question by converting the past participle "called" into the present tense verb "call",
+      and changing "sinful nature" into "sin" for closer alignment with [question 35](/cfyc/questions/35)
 
     scriptures:
   -
     number: 37
-    completed: false
+    completed: true
     trad:
       Q: "What does every sin deserve?"
       A: "The wrath and curse of God."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What do we deserve for each of our sins?"
+      A: "The wrath and curse of God."
     notes: |-
-      No Change.
+      Sin is not the subject of "deserve", but the object, so the question is rephrased to include the (implicit) subject for clarity.
+      Additionally, We retain the theologically significant terms "wrath" and "curse".
 
     scriptures:
   -
     number: 38
-    completed: false
+    completed: true
     trad:
       Q: "Can any one go to heaven with this sinful nature?"
       A: "No; our hearts must be changed before we can be fit for heaven."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Can anyone live with God while they have this sinful nature?"
+      A: "No; our hearts must be changed before we can live with God."
     notes: |-
-      No Change.
+      The notion of "going to heaven" seems out of place given the surrounding context of
+      the fall and original sin. More relevant than the place (heaven, or better the new Earth
+      in the eternal Kingdom) is the fellow resident there (God). So we modify the question and
+      answer to focus better on the central issue of alienation from God, rather than terminal
+      location. This has the side benefit of bringing the issue of sin back into time -- sin doesn't
+      just prevent us from heaven, but keeps God from dwelling with us *now*.
 
     scriptures:
   -
     number: 39
-    completed: false
+    completed: true
     trad:
       Q: "What is a change of heart called?"
       A: "Regeneration."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What do we call this change of heart?"
+      A: "Regeneration."
     notes: |-
-      No Change.
+      As before, we reorder "we call" vs "called", and use "this" instead of "a" to more clearly
+      indicated this as the continuation of the previous question.
 
     scriptures:
   -
     number: 40
-    completed: false
+    completed: true
     trad:
       Q: "Who can change a sinner’s heart?"
       A: "The Holy Spirit alone."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Who can change a sinner’s heart?"
+      A: "Only the Holy Spirit."
     notes: |-
-      No Change.
+      The answer is sharpened to "only the ..." instead of "... alone". Unlike previous questions,
+      "The Holy Spirit alone" is not a specific theological phrase (c.f. "The bible alone") so
+      the simpler construction is preferred.
 
     scriptures:
   -
     number: 41
-    completed: false
+    completed: true
     trad:
       Q: "Can any one be saved through the covenant of works?"
       A: "None can be saved through the covenant of works."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Can anyone be saved through the covenant of works?"
+      A: "No one can be saved through the covenant of works."
     notes: |-
-      No Change.
+      Change none to "no one".
 
     scriptures:
   -
