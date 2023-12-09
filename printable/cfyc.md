@@ -99,7 +99,7 @@ Presbyterians.
 ## <a id="q-13" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 13</a><a href="/cfyc/full#q-13"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/13" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: Can God do anything?**
 
-*Answer: Yes; God can do anything He wills.*
+*Answer: Yes; God does everything He wills.*
 
 
 ---
