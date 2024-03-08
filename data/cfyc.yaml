@@ -639,7 +639,7 @@ questions:
     scriptures:
   -
     number: 47
-    completed: false
+    completed: true
     trad:
       Q: "What is meant by the Atonement?"
       A: "Christ’s satisfying divine justice, by his sufferings and death, in the place of sinners."
