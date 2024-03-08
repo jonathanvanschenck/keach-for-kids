@@ -172,7 +172,7 @@ questions:
       A: "Yes; God does everything He wills."
     notes: |-
       Substituting "all things" for "anything" [see note on question 2](/cfyc/questions/2).
-      Additionally, we sharpen "can do" to "does" -- which is of more relevence. It is not
+      Additionally, we sharpen "can do" to "does" -- which is of more relevance. It is not
       merely that God is omnipotent (insofar as is consistent with His character),
       but that he *does*, in fact, enact His will. Finally, we drop "holy" so as to convert
       the noun phrase "his holy will" to a verb phrase "He wills", which seems to flow better. 
@@ -452,7 +452,7 @@ questions:
       Q: "Did Adam only represent himself in the covenant of works?"
       A: "No; he also represented all his children."
     notes: |-
-      Word order is changed for claritym and "act for" is changed to "represent" for better
+      Word order is changed for clarity and "act for" is changed to "represent" for better
       symmetry with the answer.
       Also, "Posterity" is simplified to "children" in keeping with the notion of "first parents"
 
@@ -561,106 +561,127 @@ questions:
     scriptures:
   -
     number: 42
-    completed: false
+    completed: true
     trad:
       Q: "Why can none be saved through the covenant of works?"
       A: "Because all have broken it, and are condemned by it"
     adapt:
-      Q: ""
-      A: ""
+      Q: "Why can no one be saved through the covenant of works?"
+      A: "It condemns everyone because everyone has broken it."
     notes: |-
-      No Change.
+      Change none to "no one" for consistency with previous question. Rather than two things,
+      the "condemnation" is the primary issue with the "breaking" merely being the cause. So
+      we reverse the ordering to bring the primary issue forward. Additionally, "all have broken"
+      is not similar enough to a biblically significant phrase (like "all have sinned"), so
+      the simpler/more direct "everyone has" is preferred.
 
     scriptures:
   -
     number: 43
-    completed: false
+    completed: true
     trad:
       Q: "With whom did God the Father make the covenant of grace?"
       A: "With Christ, his eternal Son."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What covenant did God the Father make with Christ, His eternal Son?"
+      A: "The covenant of grace."
     notes: |-
-      No Change.
+      This question is modified to be more parallel to its related [question (23)](/cfyc/questions/23).
 
     scriptures:
   -
     number: 44
-    completed: false
+    completed: true
     trad:
       Q: "Whom did Christ represent in the covenant of grace?"
       A: "His elect people."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Who did Christ represent in the covenant of grace?"
+      A: "His elect people."
     notes: |-
-      No Change.
+      Substituting "whom" for "who".
 
     scriptures:
   -
     number: 45
-    completed: false
+    completed: true
     trad:
       Q: "What did Christ undertake in the covenant of grace?"
       A: "To keep the whole law for his people, and to suffer the punishment due to their sins."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What did Christ agree to do in the covenant of grace?"
+      A: "To keep the whole law for His people, and to make atonement for their sins."
     notes: |-
-      No Change.
+      "Undertake" is simplied to "agree to do". "Agree" also has the added benefit of matching
+      the definition given for covenant in [question 22](/cfyc/questions/22). Additionally, several
+      questions later focuses on the particular category of penal subsitutionary atonement, so we
+      adopt the technical language "make atonement" and allow the future question to clarify the
+      meaning. C.f. questions [28](/cfyc/questions/28), [29](/cfyc/questions/29) and [30](/cfyc/questions/30).
 
     scriptures:
   -
     number: 46
-    completed: false
+    completed: true
     trad:
       Q: "Did our Lord Jesus Christ ever commit the least sin?"
       A: "No; he was holy, harmless, and undefiled."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Did our Lord Jesus Christ keep the whole of God's Law?"
+      A: "Yes; He was holy and blameless in everything."
     notes: |-
-      No Change.
+      This question has been reinterpreted as an explicit clarification of the first part
+      of the answer to [question 45](/cfyc/questions/45), in that Christ does in fact do
+      what he undertakes to do. We retain the flavor of the original question and answer by
+      including "in everything" to capture the same emphasis of "ever ... the least", but
+      simplify the treefold list (holy, harmless and undefiled) as the descriptors seems somewhat
+      redundant, and the nuanced differences seem inappropriate for the young audience.
 
     scriptures:
   -
     number: 47
     completed: false
     trad:
-      Q: "How could the Son of God suffer?"
-      A: "Christ, the Son of God, became man that he might obey and suffer in our nature."
+      Q: "What is meant by the Atonement?"
+      A: "Christ’s satisfying divine justice, by his sufferings and death, in the place of sinners."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What does it mean to make atonement for sins?"
+      A: "Christ satisfied divine justice by suffering and dying in the place of sinners."
     notes: |-
-      No Change.
+      Originally question 48, reordered for better flow of thought.
+      As with previous questions, "What is meant by" is modernized. Additionally, this question
+      is reinterpreted as clarifying the answer to [question](/cfyc/questions/45), and so
+      "the Atonement" is modified to the particular phrase from the previous qusetion "make atonement for ... sins".
 
     scriptures:
   -
     number: 48
-    completed: false
+    completed: true
     trad:
-      Q: "What is meant by the Atonement?"
-      A: "Christ’s satisfying divine justice, by his sufferings and death, in the place of sinners."
+      Q: "How could the Son of God suffer?"
+      A: "Christ, the Son of God, became man that he might obey and suffer in our nature."
     adapt:
-      Q: ""
-      A: ""
+      Q: "How can the Son of God suffer and die?"
+      A: "He became a man so that he could obey and suffer as a human."
     notes: |-
-      No Change.
+      Originally question 47, reordered for better flow of thought.
+      This question is reinterpreted as answering an "objection" to [question 47](/cfyc/questions/47), as
+      such the question adds the phrase "and die" to match "suffering and dying" from the previous question.
+      Addtionally, the answer is a bit wordy, so the Lord's titles are omited, along with other small cleaning. 
 
     scriptures:
   -
     number: 49
-    completed: false
+    completed: true
     trad:
       Q: "What did God the Father undertake in the covenant of grace?"
       A: "To justify and sanctify those for whom Christ should die."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What did God the Father agree to do in the covenant of grace?"
+      A: "To justify and sanctify those Christ would die for."
     notes: |-
-      No Change.
+      See [question 45](/cfyc/questions/45) for adapting "undertake". Additionally, the answer
+      is simplified from "for whom ... should die" to "... would die for." Modern audiences (and
+      certainly children) don't care if your sentences end in prepositions.
 
     scriptures:
   -
@@ -670,8 +691,8 @@ questions:
       Q: "What is justification?"
       A: "It is God’s forgiving sinners, and treating them as if they had never sinned."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is justification?"
+      A: "It is God’s forgiving sinners, and treating them as if they had never sinned."
     notes: |-
       No Change.
 
@@ -683,8 +704,8 @@ questions:
       Q: "What is sanctification?"
       A: "It is God’s making sinners holy in heart and conduct."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What is sanctification?"
+      A: "It is God’s making sinners holy in heart and conduct."
     notes: |-
       No Change.
 
