@@ -299,73 +299,73 @@ Presbyterians.
 
 
 ---
-## <a id="q-42" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 42</a><a href="/cfyc/full#q-42"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/42" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-42" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 42</a><a href="/cfyc/full#q-42"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/42" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Why can no one be saved through the covenant of works?**
 
-*Answer: *
-
-
----
-## <a id="q-43" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 43</a><a href="/cfyc/full#q-43"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/43" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: It condemns everyone because everyone has broken it.*
 
 
 ---
-## <a id="q-44" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 44</a><a href="/cfyc/full#q-44"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/44" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-43" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 43</a><a href="/cfyc/full#q-43"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/43" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What covenant did God the Father make with Christ, His eternal Son?**
 
-*Answer: *
-
-
----
-## <a id="q-45" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 45</a><a href="/cfyc/full#q-45"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/45" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: The covenant of grace.*
 
 
 ---
-## <a id="q-46" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 46</a><a href="/cfyc/full#q-46"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/46" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-44" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 44</a><a href="/cfyc/full#q-44"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/44" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Who did Christ represent in the covenant of grace?**
 
-*Answer: *
-
-
----
-## <a id="q-47" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 47</a><a href="/cfyc/full#q-47"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/47" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: His elect people.*
 
 
 ---
-## <a id="q-48" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 48</a><a href="/cfyc/full#q-48"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/48" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-45" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 45</a><a href="/cfyc/full#q-45"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/45" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What did Christ agree to do in the covenant of grace?**
 
-*Answer: *
+*Answer: To keep the whole law for His people, and to make atonement for their sins.*
 
 
 ---
-## <a id="q-49" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 49</a><a href="/cfyc/full#q-49"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/49" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-46" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 46</a><a href="/cfyc/full#q-46"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/46" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Did our Lord Jesus Christ keep the whole of God's Law?**
 
-*Answer: *
+*Answer: Yes; He was holy and blameless in everything.*
+
+
+---
+## <a id="q-47" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 47</a><a href="/cfyc/full#q-47"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/47" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What does it mean to make atonement for sins?**
+
+*Answer: Christ satisfied divine justice by suffering and dying in the place of sinners.*
+
+
+---
+## <a id="q-48" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 48</a><a href="/cfyc/full#q-48"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/48" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: How can the Son of God suffer and die?**
+
+*Answer: He became a man so that he could obey and suffer as a human.*
+
+
+---
+## <a id="q-49" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 49</a><a href="/cfyc/full#q-49"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/49" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What did God the Father agree to do in the covenant of grace?**
+
+*Answer: To justify and sanctify those Christ would die for.*
 
 
 ---
 ## <a id="q-50" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 50</a><a href="/cfyc/full#q-50"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/50" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+**Question: What is justification?**
 
-*Answer: *
+*Answer: It is God’s forgiving sinners, and treating them as if they had never sinned.*
 
 
 ---
 ## <a id="q-51" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 51</a><a href="/cfyc/full#q-51"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/51" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+**Question: What is sanctification?**
 
-*Answer: *
+*Answer: It is God’s making sinners holy in heart and conduct.*
 
 
 ---
