@@ -355,52 +355,52 @@ Presbyterians.
 
 
 ---
-## <a id="q-50" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 50</a><a href="/cfyc/full#q-50"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/50" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+## <a id="q-50" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 50</a><a href="/cfyc/full#q-50"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/50" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: What is justification?**
 
-*Answer: It is God’s forgiving sinners, and treating them as if they had never sinned.*
+*Answer: It is God forgiving sinners and treating them as if they had never sinned.*
 
 
 ---
-## <a id="q-51" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 51</a><a href="/cfyc/full#q-51"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/51" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+## <a id="q-51" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 51</a><a href="/cfyc/full#q-51"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/51" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
 **Question: What is sanctification?**
 
-*Answer: It is God’s making sinners holy in heart and conduct.*
+*Answer: It is God making sinners holy in thought and action.*
 
 
 ---
-## <a id="q-52" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 52</a><a href="/cfyc/full#q-52"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/52" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-52" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 52</a><a href="/cfyc/full#q-52"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/52" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Who did Christ obey and suffer for?**
 
-*Answer: *
-
-
----
-## <a id="q-53" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 53</a><a href="/cfyc/full#q-53"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/53" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: Everyone the Father had given him.*
 
 
 ---
-## <a id="q-54" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 54</a><a href="/cfyc/full#q-54"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/54" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-53" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 53</a><a href="/cfyc/full#q-53"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/53" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What kind of life did Christ live on earth?**
 
-*Answer: *
-
-
----
-## <a id="q-55" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 55</a><a href="/cfyc/full#q-55"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/55" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
-
-*Answer: *
+*Answer: A life of poverty and suffering.*
 
 
 ---
-## <a id="q-56" style="pointer-events: fill; color: #fb8151; margin-right: 5px;">Question 56</a><a href="/cfyc/full#q-56"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/56" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
-**Question: **
+## <a id="q-54" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 54</a><a href="/cfyc/full#q-54"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/54" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What kind of death did Christ die?**
 
-*Answer: *
+*Answer: A painful and shameful death on the cross.*
+
+
+---
+## <a id="q-55" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 55</a><a href="/cfyc/full#q-55"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/55" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: Who will be saved?**
+
+*Answer: Only those who repent of their sins, believe in Christ, and lead holy lives.*
+
+
+---
+## <a id="q-56" style="pointer-events: fill; color: #e8e8e8; margin-right: 5px;">Question 56</a><a href="/cfyc/full#q-56"><img src="/assets/svg/permalink.svg"/></a><a href="/cfyc/questions/56" style="margin-left: 5px;"><img src="/assets/svg/link.svg"/></a>
+**Question: What does it mean to repent?**
+
+*Answer: To be sorry for sin, to hate sin, and to forsake sin because it displeases to God.*
 
 
 ---
