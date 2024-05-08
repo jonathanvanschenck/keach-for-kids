@@ -686,93 +686,98 @@ questions:
     scriptures:
   -
     number: 50
-    completed: false
+    completed: true
     trad:
       Q: "What is justification?"
       A: "It is God’s forgiving sinners, and treating them as if they had never sinned."
     adapt:
       Q: "What is justification?"
-      A: "It is God’s forgiving sinners, and treating them as if they had never sinned."
+      A: "It is God forgiving sinners and treating them as if they had never sinned."
     notes: |-
-      No Change.
+      Smoothing "God's" to simply "God", and removing an extraneous comma to connect the clauses.
 
     scriptures:
   -
     number: 51
-    completed: false
+    completed: true
     trad:
       Q: "What is sanctification?"
       A: "It is God’s making sinners holy in heart and conduct."
     adapt:
       Q: "What is sanctification?"
-      A: "It is God’s making sinners holy in heart and conduct."
+      A: "It is God making sinners holy in thought and action."
     notes: |-
-      No Change.
+      See [question 45](/cfyc/questions/50) for adapting "God's". Additionally, we simplify
+      "heart and conduct" to "thought and action". Regeneration is typically what is closely
+      connected with a "changed heart", so the simplifying of the word "heart" is not of
+      particular theological importance in this case.
 
     scriptures:
   -
     number: 52
-    completed: false
+    completed: true
     trad:
       Q: "For whom did Christ obey and suffer?"
       A: "For those whom the Father had given him."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Who did Christ obey and suffer for?"
+      A: "Everyone the Father had given him."
     notes: |-
-      No Change.
+      Again, children don't care if you refer to an object with "who" or end a sentence in
+      a preposition. And, "For those whom" is simplified to "Everyone" -- which also makes
+      the answer closer to the language of John 6.
 
     scriptures:
   -
     number: 53
-    completed: false
+    completed: true
     trad:
       Q: "What kind of life did Christ live on earth?"
       A: "A life of poverty and suffering."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What kind of life did Christ live on earth?"
+      A: "A life of poverty and suffering."
     notes: |-
       No Change.
 
     scriptures:
   -
     number: 54
-    completed: false
+    completed: true
     trad:
       Q: "What kind of death did Christ die?"
       A: "The painful and shameful death of the cross."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What kind of death did Christ die?"
+      A: "A painful and shameful death on the cross."
     notes: |-
-      No Change.
+      Convert to a indefinite article to match the previous answer.
 
     scriptures:
   -
     number: 55
-    completed: false
+    completed: true
     trad:
       Q: "Who will be saved?"
       A: "Only those who repent of sin, believe in Christ, and lead holy lives."
     adapt:
-      Q: ""
-      A: ""
+      Q: "Who will be saved?"
+      A: "Only those who repent of their sins, believe in Christ, and lead holy lives."
     notes: |-
-      No Change.
+      Change "sin" to "their sins".
 
     scriptures:
   -
     number: 56
-    completed: false
+    completed: true
     trad:
       Q: "What is it to repent?"
       A: "To be sorry for sin, and to hate and forsake it because it is displeasing to God."
     adapt:
-      Q: ""
-      A: ""
+      Q: "What does it mean to repent?"
+      A: "To be sorry for sin, to hate sin, and to forsake sin because it displeases to God."
     notes: |-
-      No Change.
+      Some all around editing to make it more snappy.
 
     scriptures:
   -
